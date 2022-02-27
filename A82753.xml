@@ -1,0 +1,803 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Parliament of the Commonwealth of England, relating to the affairs and proceedings between this Commonwealth and the States General of the United Provinces of the Low-Countreys, and the present differences occcasioned [sic] on the States part. And the answer of the Parliament to three papers from the ambassadors extraordinary of the States General, upon occasion of the late fight between the fleets. With a narrative of the late engagement betvveen the English and Holland fleet. As also a collection of the preceedings in the treaty between the Lord Pauw, Ambassador Extraordinary from the States General of the United Provinces, and the Parliament of the Commonwealth of England. Friday the ninth of Iuly, 1652. Ordered by the Parliament, that no person whatsoever, without particular license from the Parliament, do presume to print the declaration ... Nor any the papers therewith printed, other then the printer to the Parliament. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82753</idno>
+            <idno type="STC">Wing E1511</idno>
+            <idno type="STC">Thomason E669_19</idno>
+            <idno type="STC">ESTC R207033</idno>
+            <idno type="EEBO-CITATION">99866108</idno>
+            <idno type="PROQUEST">99866108</idno>
+            <idno type="VID">118370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118370)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E669[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Parliament of the Commonwealth of England, relating to the affairs and proceedings between this Commonwealth and the States General of the United Provinces of the Low-Countreys, and the present differences occcasioned [sic] on the States part. And the answer of the Parliament to three papers from the ambassadors extraordinary of the States General, upon occasion of the late fight between the fleets. With a narrative of the late engagement betvveen the English and Holland fleet. As also a collection of the preceedings in the treaty between the Lord Pauw, Ambassador Extraordinary from the States General of the United Provinces, and the Parliament of the Commonwealth of England. Friday the ninth of Iuly, 1652. Ordered by the Parliament, that no person whatsoever, without particular license from the Parliament, do presume to print the declaration ... Nor any the papers therewith printed, other then the printer to the Parliament. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Pauw, Adriann, 1585-1653.</author>
+               </titleStmt>
+               <extent>70 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Field, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes documents by A. Pauw and others.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:118370:1" rendition="simple:additions"/>
+A DECLARATION OF THE Parliament, of the Commonwealth OF ENGLAND, Relating to the Affairs and Proceedings between this <hi>Commonwealth</hi> and the States General of the United Provinces of the <hi>Low-Countreys,</hi> and the preſent Differ<g ref="char:EOLhyphen"/>ences occcaſioned on the <hi rend="smallCaps">States</hi> part.</p>
+            <p>And the <hi rend="smallCaps">Answer</hi> of the <hi>Parliament</hi> to Three <hi rend="smallCaps">Papers</hi> from the Ambaſſadors Extraordinary of the <hi>States General,</hi> upon occaſion of the late Fight between the <hi>Fleets.</hi>
+            </p>
+            <p>With a <hi rend="smallCaps">Narrative</hi> of the late Engagement betvveen the Engliſh and Holland <hi rend="smallCaps">Fleet.</hi>
+            </p>
+            <p>As alſo</p>
+            <p>A <hi>Collection</hi> of the Proceedings in the Treaty between the Lord <hi rend="smallCaps">Pauw,</hi> Ambaſſador Extraordinary from the <hi>States General</hi> of the United Provinces, and the Parliament of the Commonwealth of <hi rend="smallCaps">England.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Friday the Ninth of <hi>Iuly,</hi> 1652.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, <hi>That no perſon whatſoever, with<g ref="char:EOLhyphen"/>out particular Licenſe from the Parliament, do preſume to Print the Declaration (Entituled,</hi> A Declaration of the Parlia<g ref="char:EOLhyphen"/>ment of the Commonwealth of <hi>England,</hi> Relating to the Affairs and Proceedings between this Commonvvealth and the States General, <hi>&amp;c.) Nor any the Papers therewith printed, other then the Printer to the Parliament.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Iohn Field,</hi> Printer to the Parliament of <hi>England,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:118370:2"/>
+            <pb n="3" facs="tcp:118370:2"/>
+            <head>A <hi>Declaration</hi> of the Parliament of the Commonwealth of <hi>England,</hi> Relating to the Affairs and Proceedings between this Commonwealth and the States General of the United Provinces of the <hi>Low-Countries,</hi> and the preſent Differences occaſioned on the States part.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F the Sufferings of the People of the United Provinces under the heavy yoke of their Oppreſſions, before their Deliverance from the ſame by the Mercy of God be remembred, and the Principles and Spirit which then acted in them, and the ready and conſtant Help which they have had in all times from this Nation, and that with no ſmall Expence of Engliſh Blood and Treaſure, the Returns which they have made towards this Commonwealth will hardly be believed.</p>
+            <p>It is not intended to be very particular in mention<g ref="char:EOLhyphen"/>ing the ſtate of the Affairs of this Commonwealth as it ſtood when oppreſſed by a Tyrant, they were neceſ<g ref="char:EOLhyphen"/>ſitated to flie to Arms for Defence of their Lives and Eſtates, becauſe in Parliament they did but aſſert and deſire the Setling of their Juſt and Native Liberties, wherein by ſo many Wonders, in ſo many ſignal Bat<g ref="char:EOLhyphen"/>tels, by ſuch a Series of Providence in <hi>England, Ire<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland,</hi> the Lord was pleaſed to bleſs a poor handful, who approved themſelves faithful to that Cauſe.</p>
+            <p>
+               <pb n="4" facs="tcp:118370:3"/>
+Neither is that Endeavor to divide them in the me<g ref="char:EOLhyphen"/>morable year of Forty eight, to be omitted; nor the great Preparations made againſt this Nation in the year One thouſand ſix hundred and fifty, which neceſſitated their Proceedings in <hi>Scotland,</hi> being refuſed Satisfa<g ref="char:EOLhyphen"/>ction for fore-paſt Wrongs; and denied Aſſurance of Peace from them, who had received the Declared Enemy of this Commonwealth from the <hi>United Pro<g ref="char:EOLhyphen"/>vinces,</hi> where that miſchievous Contrivement was hatched againſt <hi>England,</hi> and from whence their Ene<g ref="char:EOLhyphen"/>mies had much open and ſecret Aſſiſtance by the Inte<g ref="char:EOLhyphen"/>reſt of the Prince of <hi>Orange</hi> and others, even at a time when that Prince and his Adherents were contriving, as was moſt probable, to erect a Tyranny upon thoſe Countreys; and to reduce them to their former Bond<g ref="char:EOLhyphen"/>age, of which he miſſed but narrowly, eſpecially in his Attempt upon <hi>Amſterdam;</hi> which things are better known there then here, and are not the purpoſe of this Declaration.</p>
+            <p>Neither is it pleaſant to remember that cruel and bloody Buſineſs of <hi>Amboyna</hi> towards the Engliſh, for which no Satisfaction at all hath been given, though often demanded in that Caſe, and in others not un<g ref="char:EOLhyphen"/>like it.</p>
+            <p>But ſuch was the Affection of this Nation towards the People of the United Provinces, and to the Eſta<g ref="char:EOLhyphen"/>bliſhment of Liberty, and the Advantages of Traffique and Strength to both; but above all, to the Advance<g ref="char:EOLhyphen"/>ment of the True Proteſtant Religion which both pro<g ref="char:EOLhyphen"/>feſs, and which in humane probability would receive the greateſt Growth by their Friendſhip; and obſer<g ref="char:EOLhyphen"/>ving in ſome of the Governors and People of thoſe
+<pb n="5" facs="tcp:118370:3"/>
+Countreys an Affection to this Cauſe, and particularly expreſſed by them in their free Contribution for the poor Proteſtants in <hi>Ireland;</hi> that ſo ſoon as the Affairs here came by the Bleſſing of God to any conſiſtency, the Parliament did ſend a Reſident to the States Ge<g ref="char:EOLhyphen"/>neral, who expreſly refuſed to receive him, as them<g ref="char:EOLhyphen"/>ſelves very well know.</p>
+            <p>The Affairs here being yet further proſpered by the Almighty, and the Affection and Judgement the ſame ſtill in reſpect of their Neighbors, the Parliament ſent again, and joyned with their Reſident there another worthy Perſon Dr. <hi>Doriſlaus,</hi> who were inſtructed and enabled to ſee if by any good means a right Under<g ref="char:EOLhyphen"/>ſtanding might be had; but one of theſe Publique Mi<g ref="char:EOLhyphen"/>niſters, Dr. <hi>Doriſtaus,</hi> being come upon this publique Imployment to the <hi>Hague,</hi> the place of Reſidence of the States General; was there moſt barbarouſly and openly Murthered; of whoſe Aſſaſſination the world will judge as of an Action moſt abhorred, againſt all Rules of National Intercourſe, and even Humanity it ſelf; and how little was done there to Attache the Mur<g ref="char:EOLhyphen"/>therers whileſt the buſineſs was freſh, or hath been done ſince, though often called upon from hence, they well know, and muſt be here remembred.</p>
+            <p>On the other ſide, the States having formerly ſent their Ambaſſadors, the Lords, <hi>Borele, Renzwo</hi> and <hi>Joa<g ref="char:EOLhyphen"/>kimi</hi> into <hi>England,</hi> in the time of the late Troubles, pretending all good Offices, which proved to be a Cor<g ref="char:EOLhyphen"/>reſpondence with the Enemy, and a Means of Aſſiſting them againſt thoſe to whom they were ſent; This, with Reproaches by them caſt upon the Parliament, was the work of thoſe Ambaſſadors; for which, how
+<pb n="6" facs="tcp:118370:4"/>
+lyable ſoever by the practice of Nations they left them<g ref="char:EOLhyphen"/>ſelves, yet not the leaſt Incivility was offered to them, but their Demeanor made known to their Superiors, and Repairation deſired, but none vouchſafed.</p>
+            <p>After theſe Paſſages, when it had pleaſed God to put a full End to the troubleſom Affairs in <hi>England,</hi> not one Gariſon upon the firm Land being in the Enemies hands, nor any Force on foot, but all reduced to Peace and Settlement, the Affairs of <hi>Ireland</hi> in a good con<g ref="char:EOLhyphen"/>dition, moſt of the Towns and Cities there in the Par<g ref="char:EOLhyphen"/>liaments power, and their Affairs in <hi>Scotland</hi> not un<g ref="char:EOLhyphen"/>proſperous, when there was much leſs cauſe to apply to the States, for any need the Parliament had of their Aſſiſtance, or if they ſhould have looked upon them<g ref="char:EOLhyphen"/>ſelves and their Neighbors, as other States uſe to do; yet ſtill retaining the former Principles of Affection and Judgement of the great Concernment an Union between the two Commonwealths would be to the upholding of the Proteſtant Intereſt, ſo much deſigned upon by the Enemies thereof, and unto common good and Liberty.</p>
+            <p>The Parliament did ſend a Solemn Embaſſy to the States General, the Ambaſſadors Enabled and Inſtru<g ref="char:EOLhyphen"/>cted to endeavour to Compoſe former Differences, and to effect a firm and ſtrict Union, as far as might be con<g ref="char:EOLhyphen"/>ſiſtent with Reaſon and Juſtice, and the Honor of this Nation, and be for Mutual good; Nay, they can ſay, That thoſe Ambaſſadors from hence were Impowered to make ſuch Tenders unto, and Agreement with the States, as would have demonſtrated the Affection of this Commonwealth to the Good of the people of the Uni<g ref="char:EOLhyphen"/>ted Provinces, the ſame as to themſelves.</p>
+            <p>
+               <pb n="7" facs="tcp:118370:4"/>
+How unheartily and dilatorily they were dealt with in relation to their Errand, whereby the Embaſſy was rendred of no effect; how unſafe (to ſay no more) they were in their Perſons during their aboad in the Nether<g ref="char:EOLhyphen"/>lands, what Indignities were offered to them and their Followers, and unpuniſhed; and at whoſe Door the fault hereof doth lie, is too apparent. But theſe En<g ref="char:EOLhyphen"/>deavors for Friendſhip, by this delay and Averſneſs on the States part, becoming fruitleſs, the Honor of this Commonwealth in the Perſons of their Ambaſſadors wounded, and their deſires of Amity thus ſleighted, the Ambaſſadors were recalled home.</p>
+            <p>By this appears what hath been done to procure a firm League and Amity with the United Provinces, and what honeſt and ſincere Endeavors have been on the Parliaments part to effect it, who in the mean time proceeding on to conflict with thoſe Difficulties which Providence called them unto in <hi>Scotland</hi> and <hi>Ireland,</hi> and the ſame gracious hand of God which had gone along with them, having brought their Affairs in <hi>Ireland</hi> to ſo good a paſs, as that little remained there to be done; and proſpering the War in <hi>Scotland</hi> ſo, as that Countrey being in a maner quitted to them; and the Scotiſh Army under the Command of <hi>Charls Stuart,</hi> Son of the late King, marching into <hi>England,</hi> was to<g ref="char:EOLhyphen"/>tally defeated at <hi>Worceſter,</hi> and almoſt all of them kil<g ref="char:EOLhyphen"/>led or taken, except himſelf and ſome few others hard<g ref="char:EOLhyphen"/>ly eſcaping.</p>
+            <p>Then and not before, the States General thought fit to ſend an Embaſſy to this Commonwealth, which was received with ſuch willingneſs and Affection, as might teſtifie for them, they ſtood fixed to their for<g ref="char:EOLhyphen"/>mer Principles.</p>
+            <p>
+               <pb n="8" facs="tcp:118370:5"/>
+As the Treaty went on, having ſome reaſon to avoid Dilatorineſs and to deſire Certainty, when Poſitive Demands were preſſed to the States Ambaſſadors, they were evaded in things not of the hardeſt Reſoluti<g ref="char:EOLhyphen"/>on, with Allegations of want of Power, though their Commiſſion ſhewed no ſuch Reſtraint: yet to obtain further Power<g ref="char:punc">▪</g> Returns muſt be made to their Superi<g ref="char:EOLhyphen"/>ors; and before Anſwers could be had, the Provincial States muſt be Aſſembled, which gave ſmall grounds of any real intendment of a firm Peace and Amity.</p>
+            <p>During the time of Treaty alſo, whilſt at the firſt their Ambaſſadors Debates ſeemed to ſeek no better Props then of Ingenuity and Reaſon, the Ambaſſadors of the States acquainted the Parliament, that one hun<g ref="char:EOLhyphen"/>dred and fifty Ships of War were intended to be ſet out by their Superiors, beſides thoſe of their Navy then abroad; and all theſe pretended for more ſecurity of the Sea; and conſervation of the Trade and Navigation of the United Provinces, but not to offend <hi>England.</hi>
+            </p>
+            <p>Whether this were done to Amuſe the Parliament or to Denounce againſt them, is to the States beſt known, and the Grounds of thoſe extraordinary and great Preparations, when they had no Enemy at all in theſe Seas.</p>
+            <p>To theſe things the Parliament made no other An<g ref="char:EOLhyphen"/>ſwer, but quietly intended a Proviſion for their own juſt Defence, in caſe any ſhould Invade them. Never<g ref="char:EOLhyphen"/>theleſs, not altering their Reſolutions more or leſs as to the things to be inſiſted upon or granted, having made Juſtice and Honor, and a mutual Good, in preſer<g ref="char:EOLhyphen"/>vation and ſaving of each Rights to other, the rule to ſteer their Actions by, who were moſt willing to come
+<pb n="9" facs="tcp:118370:5"/>
+to a happy Cloſe of this Treaty, and were not, to their knowledges, wanting in any thing which might teſtifie their reality to finiſh the ſame.</p>
+            <p>In the mean time the States go on with their Prepa<g ref="char:EOLhyphen"/>rations at Sea, appoint their ſeveral Rendezvouz of their Fleet tending to a Conjunction of all into one, under the Command of him whom they call Lieu<g ref="char:EOLhyphen"/>tenant Admiral <hi>Trump;</hi> what his Intentions or Inſtru<g ref="char:EOLhyphen"/>ctions were, his own Deportment and ſome precedent Actions will demonſtrate.</p>
+            <p>Particularly, when amongſt others, one of their Ships being met by a man of War under the Com<g ref="char:EOLhyphen"/>mand of Captain <hi>Yong,</hi> was in a friendly maner ſum<g ref="char:EOLhyphen"/>moned to give the uſual Reſpect to the Ships of War of this Nation, which another of his Company had done before, and which hath been accuſtomed not onely as a civility and reſpect, but a principal Teſtimo<g ref="char:EOLhyphen"/>ny of the unqueſtionable Right of this Nation to the Dominion and Superiority of the adjacent Seas, ac<g ref="char:EOLhyphen"/>knowledged generally by all the Neighbor-States and Princes, and particularly by themſelves and their Pre<g ref="char:EOLhyphen"/>deceſſors, beſides many moſt authentique Records and other undeniable Proofs, together with a conſtant Pra<g ref="char:EOLhyphen"/>ctice in Confirmation thereof: Yet he refuſed, affirm<g ref="char:EOLhyphen"/>ing that if he did it, he ſhould loſe his Head.</p>
+            <p>Not long after this enſued that Action of <hi>Trump,</hi> the particulars whereof are ſet down in the <hi>Narrative</hi> herewith Printed; by which that Hoſtile and injurious Act appears to have been done againſt Neighbors in Amity, who have ſo often and earneſtly deſired and teſtified their willingneſs to firm and continue the ſame: and this alſo vailed with, and in the midſt
+<pb n="10" facs="tcp:118370:6"/>
+of a Treaty of Peace offered by themſelves.</p>
+            <p>Accompanied alſo with ſuch Arrogancy &amp; Injuſtice, not onely to the denying of ſo unqueſtionable a Right, but Uſurping upon the ſame; and in proſecution of that Injury without any provocation, ſeeking out the Ships of this Commonwealth in their own Seas, upon their own Coaſt, in their own Road, there falling upon them, be<g ref="char:EOLhyphen"/>ginning a War, and thus endeavoring the Deſtruction of their Men and Ships, even to the beating them out of the Sea, and utter Subverſion of the Naval Power and Trade of this Commonwealth, had not God by his goodneſs turned the ſhame thereof upon the heads of thoſe who were the wrong Doers.</p>
+            <p>After this long Patience of the Commonwealth of <hi>England,</hi> and after theſe high Injuries and Provocations thus forced upon them, the Succeſs at Sea not anſwer<g ref="char:EOLhyphen"/>ing Expectation, it pleaſed the States General to ſend another Ambaſſador Extraordinary to the Parliament; who, as the former Ambaſſadors a little before his coming had done, laboured to excuſe their Superiors from having any Intention, or giving any Inſtruction to Warrant this Dealing; which, notwithſtanding the Preparations, the returning from another Courſe and ſeeking out the Parliaments Ships in their own Roads, and there falling upon them without the leaſt Provoca<g ref="char:EOLhyphen"/>tion, as before is mentioned, was yet by the Ambaſ<g ref="char:EOLhyphen"/>ſador called an Accident, and a thing done by meer Chance, the Action in the name of his Superiors utter<g ref="char:EOLhyphen"/>ly diſclaimed, yet the Imployment and the Agent con<g ref="char:EOLhyphen"/>tinued by them and reinforced.</p>
+            <p>And when the clear truth of this unworthy Fact, bearing in it ſelf part of the Proof thereof, by the Fleet
+<pb n="11" facs="tcp:118370:6"/>
+under the Command of <hi>Trump,</hi> coming purpoſely in<g ref="char:EOLhyphen"/>to the Road of <hi>England</hi> unto their Fleet; and the reſt thereof being atteſted, not onely by many eye-wit neſſes, Engliſhmen, but alſo by divers Officers, and others of the Netherlands taken in the Fight, who con<g ref="char:EOLhyphen"/>cur fully in the Teſtimony; yet a long and intricate way of Examination thereof is propounded, a Ceſſa<g ref="char:EOLhyphen"/>tion of acts of Offence and Hoſtility in the mean time deſired, and a new Proceeding upon the old long Trea<g ref="char:EOLhyphen"/>ty entred into by the former Ambaſſadors; that time being thus gained, an addition of ſtrength might there<g ref="char:EOLhyphen"/>with be provided.</p>
+            <p>The Powers of this Ambaſſador being deſired to be ſeen, none but his Credential Letters, and ſome Paſſes for his Tranſportation were produced; but no power to Treat and Conclude with the Parliament, for which material Point he reſorted to the Powers of the for<g ref="char:EOLhyphen"/>mer Ambaſſadors, who had Commiſſion to Treat and conclude upon the former Negotiation, and owned this alſo; and although they came upon the general buſineſs of the Treaty of Alliance between the two Commonwealths, and the Lord <hi>Pauw</hi> came upon a par<g ref="char:EOLhyphen"/>ticular Action done after that Treaty begun and pro<g ref="char:EOLhyphen"/>ceeded in; yet ſuch was the continued deſire of the Par<g ref="char:EOLhyphen"/>liament, if poſſible, to compoſe the ſaid late Differen<g ref="char:EOLhyphen"/>ces in a Friendly way, that they proceeded to treat with the Lord <hi>Pauw,</hi> waving the preſent Diſpute upon his want of Powers.</p>
+            <p>And when nothing in Particular was tendred by the Ambaſſador, but the Generals before recited; and a Propoſal, That the Parliament would make their De<g ref="char:EOLhyphen"/>mands to him; they were contented, not inſiſting upon
+<pb n="12" facs="tcp:118370:7"/>
+the diſadvantage thereof, to make their Demands un<g ref="char:EOLhyphen"/>to the Ambaſſador for Satisfaction for Wrongs paſt, and Security for the future, which are herewith likewiſe Printed; whereby it was put into the Hands of the Am<g ref="char:EOLhyphen"/>baſſador, to come to an Agreement upon the Demands of Satisfactions to be by both Parties moderated and aſſerted, as was propounded to him in another Paper; and upon ſuch Agreement for Satisfaction (the Demand for Security being left to after conſideration) to have a Ceſſation of all acts of Hoſtility and Offence as he de<g ref="char:EOLhyphen"/>ſired, and the Parliament was thus willing to aſſent unto.</p>
+            <p>But inſtead of drawing towards any ſuch Agreement, or endeavoring to come to Particulars therein as was offered; the Ambaſſador was not pleaſed at all to ſe<g ref="char:EOLhyphen"/>cond or purſue his former earneſt deſire of a Ceſſation, though it were thus in his own Power to accompliſh, but wholly declined the ſame; and for himſelf and the other Ambaſſadors, deſired ſpeedy Audience to take their leaves, and to depart into their own Countrey, being expreſly commanded (as they affirmed) ſo to do; and in that they were not denyed any Reſpect or Ac<g ref="char:EOLhyphen"/>commodation, nor uſed, during their abode here, as the Publique Miniſters of this Commonwealth had been in the United Provinces; and by this Departure, they were pleaſed to put a period both to the one and the other Treaty.</p>
+            <p>At their laſt Audience in Parliament, much was re<g ref="char:EOLhyphen"/>cited of the ſame matter contained in their former Pa<g ref="char:EOLhyphen"/>pers; and as to that which they then urged concerning acts of Hoſtility not looked for, neither at any time before declared; and that their Ships (brought into the
+<pb n="13" facs="tcp:118370:7"/>
+Ports of <hi>England,</hi> and there detained of late againſt their thought, and before any Declaration of Hoſti<g ref="char:EOLhyphen"/>lity iſſued out, and whereof the Commanders are un<g ref="char:EOLhyphen"/>ware and guiltleſs, having not given the leaſt, nor to no body occaſion of Diſputes) might be releaſed; the Parliament therein need but refer to the Narrative by them publiſhed, and delivered to the Ambaſſadors of the Lords the States General, before the arrival of the Lord <hi>Pauw,</hi> and ſeen by him at his firſt coming.</p>
+            <p>And although that firſt Breach and high injury done by <hi>Trump</hi> was on the Parliaments part altogether un<g ref="char:EOLhyphen"/>deſerved and unlooked for, yet after the ſame commit<g ref="char:EOLhyphen"/>ted, a Proſecution againſt the Wrong-doers could not in probability but be looked for from the Parties inju<g ref="char:EOLhyphen"/>red, to whom no Satisfaction hath yet been offered; unleſs the Parliament ſhould quietly and tamely have laid themſelves down at the feet of thoſe who have thus endeavored the Ruine of them, and have betray<g ref="char:EOLhyphen"/>ed into thoſe hands the Rights and Safety of the Peo<g ref="char:EOLhyphen"/>ple of this Nation, which few would have eſteemed agreeable to the great Truſt in them repoſed.</p>
+            <p>By theſe Proceedings faithfully repreſented to the view of the World, it will be more then evident with what Affection and Conſtancy the Parliament have la<g ref="char:EOLhyphen"/>bored for the Friendſhip of the United Provinces: how carefully they avoided all Differences and Occaſions of a War between the Nations, though all ſuch Overtures of Amity and neareſt Alliance have been rejected.</p>
+            <p>At laſt, when this Commonwealth was aſſaulted and invaded, their Ships torn, their Men ſlain, without the leaſt colour of any Offence given; upon which At<g ref="char:EOLhyphen"/>tempts and the Conſequences thereof had the ſame
+<pb n="14" facs="tcp:118370:8"/>
+ſucceeded, not onely the Rights, Honor and Traffique, but even the very Being of this Commonwealth had been highly endangered; The Parliament held it their Duty, thus compelled and neceſſitated into a moſt un<g ref="char:EOLhyphen"/>welcome War begun upon them, to defend themſelves; and whileſt a juſt Satisfaction and Security cannot otherwiſe be had, To endeavor the gaining thereof by ſuch ways and means wherewith the Lord ſhall enable them.</p>
+            <p>And herein, as the Parliament doth reſt abundantly comforted in the Integrity of their own Proceeding, and faithful Diſcharge of their Duty, ſo they aſ<g ref="char:EOLhyphen"/>ſure themſelves that all indifferent perſons will enter<g ref="char:EOLhyphen"/>tain this clear Teſtimony of the Juſtneſs of their Cauſe; for the iſſue whereof they depend not upon any Policy or ſtrength of Man, but onely upon the Goodneſs and Aſſiſtance of that Righteous God who hath hitherto in ſo wonderful a maner appeared for them, and who ne<g ref="char:EOLhyphen"/>ver failed thoſe that ſeek him, and with uprightneſs and ſincerity of Heart attend upon him.</p>
+            <closer>
+               <signed>Hen: Scobell Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="15" facs="tcp:118370:8"/>
+            <head>The <hi rend="smallCaps">Answer</hi> of the Parliament of the Commonwealth of <hi>England,</hi> to Three Papers preſented to them by the Councel of State, from the Ambaſſadors Extraordinary of the Lords the States General of the <hi>United Provinces,</hi> upon occaſion of the late Fight between the Fleets.</head>
+            <p>THe Parliament of the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> calling to minde with what continued De<g ref="char:EOLhyphen"/>monſtrations of Friendſhip and ſincere Affections, from the very beginning of their inteſtine Troubles they have proceeded towards their Neighbors of the <hi>United Provinces,</hi> omitting nothing on their part that might conduce to a good Correſpondence with them, and to a growing up into a more near and ſtrict Union then formerly, Do finde themſelves much ſurprized with the unſutable Returns that have been made there<g ref="char:EOLhyphen"/>unto, and eſpecially at the Acts of Hoſtility lately committed in the very Roads of <hi>England</hi> upon the Fleet of this Commonwealth, the matter of Fact whereof ſtated in clear Proofs, is hereunto annexed; Upon ſerious and deliberate conſideration of all, and of the ſeveral Papers delivered in by Your Excellen<g ref="char:EOLhyphen"/>cies to the Councel of State, the Parliament thinks ſit to give this Anſwer to thoſe Papers:</p>
+            <p>The Parliament, as they would be willing to make a charitable Conſtruction of the Expreſſions uſed in the ſaid Papers, endeavoring to repreſent the late Engage<g ref="char:EOLhyphen"/>ment of the Fleets to have hapned without the know<g ref="char:EOLhyphen"/>ledge, and againſt the minde of Your Superiors; So when they conſider how diſagreeable to that profeſ<g ref="char:EOLhyphen"/>ſion
+<pb n="16" facs="tcp:118370:9"/>
+the Reſolutions and Actions of Your State and their Miniſters at Sea have been, even in the midſt of a Treaty offered by themſelves, and managed here by Your Excellencies, the extraordinary Preparations of One hundred and Fifty ſail of Men of War, without any viſible occaſion, but what doth now appear (a juſt ground of Jealouſie in Your own judgements, when Your Lordſhips pretended to excuſe it) and the Inſtru<g ref="char:EOLhyphen"/>ctions themſelves given by Your ſaid Superiors to their Commanders at Sea, Do finde too much cauſe to be<g ref="char:EOLhyphen"/>lieve, That the Lords the States General of the <hi>United Provinces</hi> have an Intention, by Force to uſurp the known Rights of <hi>England</hi> in the Seas, to deſtroy the Fleets that are, under God, their Walls and Bulwarks, and thereby expoſe this Commonwealth to Invaſion at their pleaſure, as by this late Action they have attem<g ref="char:EOLhyphen"/>pted to do: Whereupon the Parliament conceive they are obliged to Endeavor, with Gods aſſiſtance, as they ſhall have opportunity, To ſeek Repairation of the Wrongs already ſuffered, and Security that the like be not attempted for the future.</p>
+            <p>Nevertheleſs, with this minde and deſire, That all Differences betwixt the Nations may (if poſſibly) be peaceably and friendly compoſed, as God by his Pro<g ref="char:EOLhyphen"/>vidence ſhall open a way thereunto, and Circumſtances ſhall be conducing to render ſuch Endeavors leſs dila<g ref="char:EOLhyphen"/>tory, and more effectual then thoſe of this kinde here<g ref="char:EOLhyphen"/>tofore uſed have been.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="narrative">
+            <pb n="17" facs="tcp:118370:9"/>
+            <head>
+               <hi>A Narrative of the late Engagement between the Engliſh Fleet under the Command of General</hi> Blake, <hi>and the</hi> Holland <hi>Fleet under the Command of Lieutenant Admiral</hi> Trump <hi>near</hi> Dover.</head>
+            <p>UPon Tueſday the Eighteenth of <hi>May</hi> 1652. in the morning, General <hi>Blake</hi> being gone to the Weſt<g ref="char:EOLhyphen"/>ward as far as <hi>Rye</hi> Bay eight days before with twelve or thirteen Ships, leaving Major <hi>Bourn</hi> in the <hi>Downs</hi> with eight Ships onely, there appeared upon the backſide of the <hi>Goodwin</hi> a <hi>Holland</hi> Fleet of Men of War conſiſting of two and forty Ships, one whereof had a Flag on the main-top-Maſt head, the reſt Jacks and Ancients; and being come unto the South-ſands head, two of them bore up towards the Engliſh Ships in the <hi>Downs,</hi> where<g ref="char:EOLhyphen"/>upon Major <hi>Bourn</hi> ſent out the <hi>Greyhound</hi> to examine them, and to know the reaſon of their ſo near approach; who anſwering, That they had a Meſſage to the Com<g ref="char:EOLhyphen"/>mander in chief in the <hi>Downs,</hi> were permitted to come in; and having ſaluted the Flag, the two Captains na<g ref="char:EOLhyphen"/>med <hi>Tyſon</hi> and <hi>Aldred</hi> came Aboard the ſaid Major <hi>Bourn,</hi> and acquainted him that they were ſent by <hi>Van Trump</hi> to let him know that he had been Riding about <hi>Dunkirk</hi> with his Fleet, where by reaſon of foul Wea<g ref="char:EOLhyphen"/>ther they had loſt many of their Cables and An<g ref="char:EOLhyphen"/>chors, and the wind being Northerly, were driven fur<g ref="char:EOLhyphen"/>ther
+<pb n="18" facs="tcp:118370:10"/>
+to the Southward then they intended, which <hi>Van Trump</hi> thought fit to ſignifie to prevent any miſappre<g ref="char:EOLhyphen"/>henſions or Jealouſies. And having ſaid this, and re<g ref="char:EOLhyphen"/>ceived for anſwer, That the Reality of what they ſaid would beſt appear by their ſpeedy drawing off from this Coaſt, they departed to their Fleet; and immediately upon their arrival with them, the whole Fleet ſtood up to <hi>Dover,</hi> and came to an Anchor within little more then ſhot of the Caſtle the ſame day in the afternoon. Upon their coming before <hi>Dover</hi> Caſtle, and Riding there with Flag in the Main-top, without ſaluting the Caſtle, the Caſtle made three ſhot at them; notwith<g ref="char:EOLhyphen"/>ſtanding which, the Dutch Admiral kept up his Flag, and rode there at Anchor until the next day noon, and exerciſed his Muſquetiers, by diſcharging Volleys of ſmall ſhot many hours together. Upon Wedneſday about twelve a clock the Dutch Fleet weighted Anchor and ſtood off towards <hi>Calice</hi> ſome four Leagues into the South-eaſt; about the ſame time the Engliſh Fleet un<g ref="char:EOLhyphen"/>der General <hi>Blake</hi> coming from the Weſt towards the <hi>Downs</hi> diſcovered them, and ſuppoſed by their courſe they had been going back; Major <hi>Bourn</hi> likewiſe was in fight, coming from the <hi>Downs</hi> to joyn with General <hi>Blake:</hi> About an hour or two after, the <hi>Holland</hi> Fleet altered their courſe, came back again, made all the Sail they could, and bore directly with General <hi>Blake, Van Trump</hi> the headmoſt with his Flag in the Main-top; and being come within ſhot, the General ſhot a Gun at his Main-top, and then two ſingle ſhot more: whereupon <hi>Trump</hi> ſhot a ſingle ſhot through the Generals Flag and then immediately gave the firſt Broad-ſide and took in his Pendants, and hung out his Red Flag under
+<pb n="19" facs="tcp:118370:10"/>
+the <hi>Holland</hi> Colours, which was the ſignal on their part for the whole Fleet to ingage, and ſo the Fight began, which happened between four and five a clock in the af<g ref="char:EOLhyphen"/>ternoon, and contiued until nine of the clock. In the Fight the Engliſh took two of the <hi>Holland</hi> Fleet, one whereof having ſix foot water in the Hold they left, ta<g ref="char:EOLhyphen"/>king the Captain and Officers aboard, the other being a Ship of thirty Guns. General <hi>Blake</hi> lay all night where the Fight began, or near thereabouts, and the Holland Fleet was eſpyed about four Leagues diſtant towards the Coaſt of <hi>France</hi> next morning.</p>
+            <p>The truth of this Relation appears in the Letters of General <hi>Blake,</hi> Major <hi>Bourn,</hi> and others in the Action, by the Examinations of the Dutch Captains, and other Officers taken in the Fight; the Inſtructions given to the Dutch Captains and Commanders, and other Pa<g ref="char:EOLhyphen"/>pers, all which are hereunto annexed.</p>
+            <p>And whereas <hi>Van Trump</hi> in the accompt he gives of this Action, makes the occaſion of his coming back upon the Engliſh Fleet, the guarding of ſome Mer<g ref="char:EOLhyphen"/>chant men richly laden from the <hi>Streights,</hi> which had been in fight with ſome of our Friggots: That action is ſet down in a Letter written by Captain <hi>Yong</hi> (here<g ref="char:EOLhyphen"/>unto alſo annexed) whereby the occaſion, beginning and ending thereof is declared. And beſides, thoſe very Ships which he pretends to come to protect or re<g ref="char:EOLhyphen"/>ſcue, upon Saturday before had paſt by General <hi>Blake,</hi> and were gone to the Eaſtward.</p>
+         </div>
+         <div type="proceedings">
+            <pb n="20" facs="tcp:118370:11"/>
+            <head>A Collection of the Proceedings in the Treaty between the Lord <hi rend="smallCaps">Pauw,</hi> Ambaſſador Extraordinary from the States General of the Vnited Provinces, and the Parliament of the Commonwealth of <hi>England.</hi>
+            </head>
+            <div type="speech">
+               <head>The Lord <hi rend="smallCaps">Pauw</hi>'s Speech at his Audience before the <hi rend="smallCaps">Parliament,</hi> the Eleventh of <hi>Iune,</hi> 1652.</head>
+               <opener>
+                  <salute>Right Honorable,</salute>
+               </opener>
+               <p>THe Publique Teſtimonies and manifeſt Tokens of a ſincere Benevolence, pure Love and true Friendſhip, which the Univerſal State and Sub<g ref="char:EOLhyphen"/>jects of the United Provinces have always ſhewed to the Engliſh People, and principally to the Parliament of the Commonwealth of <hi>England,</hi> now proſperouſly and happily Governing, are ſo notorious and known to the whole Chriſtian World, that no body can doubt of it; much leſs of a true Faith and long uſed Obſervation of Friendſhip, of the States General of the United Provinces.</p>
+               <p>But, foraſmuch as by reaſon of the Variety and In<g ref="char:EOLhyphen"/>conſtancy of Worldly things, ſometime happen thoſe things which do dark the Exterior Face with Clouds, and are like to ſhew a Diſtraction of mindes: But when theſe things are prevented by time, and all Contrarieties taken away, they will ſerve more to conſerve and con<g ref="char:EOLhyphen"/>firm,
+<pb n="21" facs="tcp:118370:11"/>
+then to diſſolve the Bonds of mutual Friendſhip: Therefore it hath pleaſed the States General of the United Provinces, my Superiors; notwithſtanding they doubt not of the ſingular Wiſdom and Diligence of their Extraordinary Ambaſſadors here, ſtaying about great and weighty Buſineſs, to ſend me in an extraor<g ref="char:EOLhyphen"/>dinary Embaſſage to the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> To preſent clearly and ſincerely their Wiſhes for the Publique Safety and happy Go<g ref="char:EOLhyphen"/>vernment thereof; with proffer of all their good Of<g ref="char:EOLhyphen"/>fices, as I, being ſo lately come from their Honorable Aſſembly, can teſtifie out of my certain knowledge, That nothing is more in their Hearts and Wiſhes, Then that not onely a firm and conſtant Friendſhip be Reli<g ref="char:EOLhyphen"/>giouſly kept between both States; but that it may daily grow, and by all means be conſolidated, and no<g ref="char:EOLhyphen"/>thing may happen which may break or any way diſturb the Bars of mutual Safety, Profit and Friendſhip, be<g ref="char:EOLhyphen"/>tween ſo Neighbor Nations: And that therefore they have received with great Aſtoniſhment and ſorrow of Heart the News, of what, contrary to all expectation, hath lately happened between the Admirals of both Commonwealths. But foraſmcch as this unlooked for and unexpected caſe might not onely raiſe new Trou<g ref="char:EOLhyphen"/>bles, but alſo give occaſion of Suſpition, as if the preſent Treaty for a mutual Alliance, and a ſtraighter Corroboration of the old Friendſhip, was not earneſtly proſecuted, and therefore we ſhould labor in vain to come to a happy end: My Superiors have not thought amiſs, but rather convenient, even neceſſary, that at this time and upon this unhappy caſe fallen out, I ſhould above the ordinary uſe and cuſtom, and there<g ref="char:EOLhyphen"/>fore
+<pb n="22" facs="tcp:118370:12"/>
+ſuperabundantly, (ſeeing that by reaſon of my Office I have been in all their Counſels) repreſent open<g ref="char:EOLhyphen"/>ly and ſincerely to the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> all the Particulars which have happened, as well before as after that Fact, as they are come to their knowledge, to remove all things out of the way which might breed any grudge or breach of Friendſhip between both States, or cauſe the leaſt di<g ref="char:EOLhyphen"/>ſturbance or delay to the Treaty.</p>
+               <p>Therefore, by virtue of the Credential Letters of the ſaid General States, and in their name I do Proteſt and Declare to the Parliament of the Commonwealth of <hi>England,</hi> That they have never entertained in their thoughts, never acted, much leſs commanded any thing which might offend the Dignity of this Com<g ref="char:EOLhyphen"/>monwealth, leſſen the common Friendſhip and good Correſpondence which hath endured for ſo many years, or under any pretence whatſoever ſow any ſeed of Miſunderſtanding; But rather that the ſaid States have intended with all their hearts, and endeavoured by all their power, That the ſaid Friendſhip and Alli<g ref="char:EOLhyphen"/>ance might be perfected in the beſt way, and ſpeedily, and might be ſolemnly eſtabliſhed for ever for the Safety and Advantage of both Commonwealths. It is very true that a great Fleet hath been prepared in the Low Countreys, but that the States General have by the continual Complaints of their Subjects been forced to conſent to it, is alſo a thing moſt certain and known; as alſo, that they have Ordered, That notice thereof ſhould be given to the ſaid Parliament; which was done and ſignified to no other intent, then that the Subjects of the United Provinces which had ſuffered great Da<g ref="char:EOLhyphen"/>mages
+<pb n="23" facs="tcp:118370:12"/>
+at Sea, and loſt ſeveral ſhips, ſhould be ſecured and protected by juſt and ordinary means; and that no Wrong or Offence ſhould be offered to any, much leſs to undertake any Diſpute againſt the Fleet and Ships of the ſame Parliament upon the Controverſies and Differences of the Sea. All which being done and per<g ref="char:EOLhyphen"/>formed in that maner, and nevertheleſs being acciden<g ref="char:EOLhyphen"/>tally hapened of both ſides a great Debate and Con<g ref="char:EOLhyphen"/>troverſie between both Fleets, the States General have thought fit to acquaint the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> with the Relation ſent to them in writing by their Admiral, and approved and witneſſed by their Cap<g ref="char:EOLhyphen"/>tains and other faithful perſons, That the Admiral <hi>Trump,</hi> more by neceſſity then other reaſons, is come nigh the Fleet of this Commonwealth, and hath firſt ſent his civil Salutation to the Commander <hi>Bourn;</hi> and having afterwards met accidentally with the Ad<g ref="char:EOLhyphen"/>miral <hi>Blake,</hi> put out his Boat to ſend ſome Deputies unto him, and to Declare the Reaſons of his coming, and beſides that, commanded to take down his Flag; but when he ſaw, that he againſt all expectation was unhappily ſaluted by him with a Broad-ſide, and there<g ref="char:EOLhyphen"/>upon he diſcharged his Guns, not to offend but to de<g ref="char:EOLhyphen"/>fend himſelf; and that from thence by meer accident, rather then purpoſely, was ariſed a Fight amongſt thoſe Fleets, which by the Lords Bleſſing ſhortly after was ended: Which, foraſmuch as it was begun by an un<g ref="char:EOLhyphen"/>expected Salutation, and not continued with earneſt<g ref="char:EOLhyphen"/>neſs by ours, nor done or committed by Alienated mindes, or any Reaſons known before, but by Chance; Therefore the States General do friendly deſire, That the <hi rend="smallCaps">Parliament</hi> of the Commonwealth of
+<pb n="24" facs="tcp:118370:13"/>
+                  <hi>England</hi> will be pleaſed to believe and be perſwaded, That nothing was done with a conſulted purpoſe or foregoing Command, but meerly by a caſual Chance, and perhaps by reaſon of the Fragility and Inconſtance of the worldly things; and ſo much the more direct their Counſels and Commiſſions thither, That all Ob<g ref="char:EOLhyphen"/>ſtacles, Offences, and further Wrongs may with all ſpeed be removed out the way and prohibited, as the States General on their part are prompt and ready to apply convenient Remedies. They judge that it concerneth much the whole Chriſtian world, and prin<g ref="char:EOLhyphen"/>cipally the States of the Reformed Churches abroad, That thoſe Miſunderſtandings do not grow greater be<g ref="char:EOLhyphen"/>tween theſe Commonwealths, and that between Neighbors, partakers of the ſame Faith, ſhould ariſe any Diſſention which ſhould diſturb, interrupt the com<g ref="char:EOLhyphen"/>mon and neceſſary Commerce, and give occaſion, as well to their known as to their ſecret Enemies, to lay waits, or to draw into diverſe parts thoſe Common<g ref="char:EOLhyphen"/>wealths ready to be United in a common Alliance; and by ſuch means removing from themſelves the ſeat of Calamities and War, to bring (which God forbid) it to their own deſtruction: To prevent ſo great a danger, and that the evil may not ſpread further, I am com<g ref="char:EOLhyphen"/>manded by times to propound, and do all my beſt, That by convenient means there may be a ſpeedy Com<g ref="char:EOLhyphen"/>poſure made of what is paſt; and that there may be Or<g ref="char:EOLhyphen"/>der taken, That hereafter ſuch unlucky and unhappy Caſes happen no more between the Fleets of both Commonwealths, wherein they Deſire, the Dignity and the Honor of the Parliament of the Commonwealth of <hi>England</hi> may be conſerved.</p>
+               <p>
+                  <pb n="25" facs="tcp:118370:13"/>
+Whereas then the States General do herewith open<g ref="char:EOLhyphen"/>ly Declare to the ſaid Parliament, That they deſire in<g ref="char:EOLhyphen"/>tirely, That all offices of Friendſhip and Benevolence may be continued, the contrary may be prevented; and that the Councels of all ſides may be directed to the deſired end and concluſion of the mutual Confedera<g ref="char:EOLhyphen"/>cy; therefore, I do earneſtly intreat, That it may pleaſe the ſaid Parliament to hear and underſtand me without any delay, by their Deputies or Counſel of State, and proceed without intermiſſion in the juſt and amicable former Tranſactions, to bring the principal Buſineſs to an end and concluſion, as the Extraordinary Ambaſſadors of the States have Charge and are ready to do.</p>
+               <p>In the ſame time I do return my Thanks for the ſingular Favor done to my Lord <hi>Neuwport,</hi> in granting him ſome days ago one of the Parliaments ſhips for his return into the Low Countreys; and the ſaid Lord be<g ref="char:EOLhyphen"/>ing a Member of the States of <hi>Holland</hi> and <hi>Weſt-Friezland,</hi> I am charged to deſire him to ſtay here, to communicate Counſels and return with me, which I hope will not be diſpleaſing to the Parliament, to whoſe Benevolence I with all Reſpect recommend me and all my Offices.</p>
+            </div>
+            <div type="letter">
+               <pb n="26" facs="tcp:118370:14"/>
+               <head>A Tranſlation of the Letters Credential to the Lord <hi rend="smallCaps">Pauw.</hi>
+               </head>
+               <opener>
+                  <signed>The States General of the <hi>United Provinces</hi> of the Low-Countreys;</signed>
+               </opener>
+               <p>WHereas We have found convenient, even very ne<g ref="char:EOLhyphen"/>ceſſary, in the preſent Condition of the Affairs in <hi>Europe,</hi> to ſend to the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> the Lord <hi>Adrian Pauw</hi> Knight, Lord of <hi>Heemſtede, Hogersmilde, Rietwijck</hi> and <hi>Nieu<g ref="char:EOLhyphen"/>werkerk,</hi> Counſellor Penſionary of <hi>Holland</hi> and <hi>Weſt-Friezland,</hi> and Ordinary Deputy in Our Aſſembly, from the ſaid Province, as Our Extraordinary Ambaſ<g ref="char:EOLhyphen"/>ſador; having made election of his Perſon, as of one, of which, for his rare Qualities and long Experience, We make a high eſteem, and have a great Confidence; being well acquainted with our good and ſincere In<g ref="char:EOLhyphen"/>tentions, which have no other Aime, then the Main<g ref="char:EOLhyphen"/>taining, Increaſing, Confirming and Strengthning more and more the good Amity, Correſpondence and Alliance between both Nations and States, grounded upon common Intereſts of Religion, of State and Commerce; having ſuch Confidence of his Ability, Prudence, Fidelity and Diligence, that we do refer Our ſelves to him to expreſs them <hi>viva voce,</hi> to the ſaid Parliament of the Commonwealth of <hi>England;</hi> and chiefly, the Zeal that We do continue to have for all what may concern the common Good and Security of both Nations: Wherefore We intreat with earneſtneſs and with all Our Affection, the ſaid Parliament of the
+<pb n="27" facs="tcp:118370:14"/>
+Commonwealth of <hi>England</hi> by theſe Preſents, That they be pleaſed to give a favorable Audience to the ſaid Our Extraordinary Ambaſſador, and to give him abſolute Credence as to Our ſelves, in all that he ſhall ſay and propound of Our part in this preſent condition of the Affairs of both Commonwealths. </p>
+               <closer>
+                  <dateline>Done at the <hi>Hague</hi> in <hi>Holland,</hi>
+                     <date>the Fourteenth of <hi>June,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred fifty two.</date>
+                  </dateline>
+               </closer>
+               <trailer type="direction">
+                  <hi>To the Parliament of the Commonwealth of</hi> England.</trailer>
+            </div>
+            <div type="speakers_report_and_Parliamentary_order">
+               <opener>
+                  <dateline>Friday <date>the 11<hi rend="sup">th</hi> of <hi>June,</hi> 1652.</date>
+                  </dateline>
+               </opener>
+               <p>Mr. Speaker <hi>by way of Report, acquaints the Parlia<g ref="char:EOLhyphen"/>ment with what was delivered by the Lord</hi> Pauw <hi>Ambaſſador Extraordinary from the Lords the States General of the</hi> United Provinces, <hi>at his Audience in the Houſe this day, and preſented the Paper delivered in by the ſaid Lord Ambaſſador Extraordinary, and the Tranſ<g ref="char:EOLhyphen"/>late thereof in Engliſh, which was this day read.</hi>
+               </p>
+               <p>Ordered by the Parliament, <hi>That theſe Papers be referred to the Councel of State; And that it be likewiſe referred to the ſaid Councel, to hear what the ſaid Lord Ambaſſador Extraordinary hath further to ſay, and to Treat with him; they holding cloſe to the former An<g ref="char:EOLhyphen"/>ſwers and Declarations the Parliament hath made, and report it to the Parliament with all ſpeed.</hi>
+               </p>
+               <closer>
+                  <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+               </closer>
+            </div>
+            <div type="speech">
+               <pb n="28" facs="tcp:118370:15"/>
+               <head>The Lord <hi>Pauw</hi>'s Speech at his Audience in the Councel of State.</head>
+               <opener>
+                  <salute>Right Honorable,</salute>
+               </opener>
+               <p>WHereas it hath pleaſed my Lords the States Ge<g ref="char:EOLhyphen"/>neral of the United Provinces to ſend me, be<g ref="char:EOLhyphen"/>ſides their Extraordinary Ambaſſadors, in the ſame quality, to the Parliament of the Commonwealth of <hi>England;</hi> and having yeſterday had the Honor to De<g ref="char:EOLhyphen"/>clare in their full Aſſembly the true ſubject of my coming, and the ſincere Intentions of my Superiors: Therefore, I think it to be my duty to appear likewiſe before this Honorable Councel to preſent my Creden<g ref="char:EOLhyphen"/>tial Letters, and wiſh your Honors all felicity and good ſucceſs in the direction and managing of ſo great Af<g ref="char:EOLhyphen"/>fairs as are to them committed by this great Common<g ref="char:EOLhyphen"/>wealth. And as I have Declared unto the ſaid Parlia<g ref="char:EOLhyphen"/>ment, ſo do I likewiſe Declare again with truth and certain knowledge, That my Lords the States General have always had, and have at this preſent more then at any time before, a very great deſire to maintain, in<g ref="char:EOLhyphen"/>creaſe, and keep faithful the good Friendſhip, ſtraight Alliance, and perfect Correſpondence which hath ſo long endured between both Nations and States, where<g ref="char:EOLhyphen"/>of there hath been heretofore many notorious and ma<g ref="char:EOLhyphen"/>nifeſt teſtimonies: It is moſt conſtant, That my Su<g ref="char:EOLhyphen"/>periors have nothing more in their hearts, then to ſee a finiſhing and concluſion of the Treaty of Alliance be<g ref="char:EOLhyphen"/>tween both Commonwealths; to the end, That there<g ref="char:EOLhyphen"/>by a ſtraighter Union and brotherly Concord may be
+<pb n="29" facs="tcp:118370:15"/>
+eſtabliſhed, to ſubvert and deſtroy all Plots and Divi<g ref="char:EOLhyphen"/>ſions which would trouble and much endanger the one and the other, as alſo make them leſs conſiderable to the Chriſtian world. This is (my Lords) the very aim of the Enemies of the Reformed and Orthodox Reli<g ref="char:EOLhyphen"/>gion, making a certain account, That they will be able by ſuch a Diſagreement and Diviſion, not onely to weaken both States, but to bring them alſo to the ut<g ref="char:EOLhyphen"/>moſt extremities. But both People being bleſſed by the Lord with that precious gift of the true Religion, and wonderfully provided, beſides the Spiritual, with Temporal Benedictions, by the benefit of Navigation and Commerce in all parts of the World: and my Lords the States General, judging that the firſt ought neceſſarily to be conſerved, and the other be looked to, the Religion maintained, and the State ſecured, did believe, That all thoſe Inconveniences can be no bet<g ref="char:EOLhyphen"/>ter prevented, then by joyning the Souls and Goods of both Commonwealths, and by this means make them able, with Gods aſſiſtance, to ſhun all Michinations to the contrary. Therefore, the unexpected news of the meeting of the two Fleets, and the Offences given of both ſides hath brought no ſmall Trouble amongſt the General States, who have thereupon judged moſt ne<g ref="char:EOLhyphen"/>ceſſary to diſpatch extraordinarily and ſpeedily to in<g ref="char:EOLhyphen"/>form the Parliament of the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and this Honorable Councel, and to perform ſuch Endeavors, made choice of me that have been admit<g ref="char:EOLhyphen"/>ted in both Aſſemblies of the States General and of thoſe of <hi>Holland</hi> and <hi>Weſt-Friezland,</hi> and acquainted with their moſt important and moſt ſecret Counſels and Deliberations, to witneſs here with moſt certain
+<pb n="30" facs="tcp:118370:16"/>
+knowledge of the matter, and no leſs truth and faith<g ref="char:EOLhyphen"/>fulneſs, That no Deliberation was made, no Reſolution taken, no Commiſſion directly or indirectly given to diſpleaſe in any ways the Commonwealth of <hi>England</hi> to offend them, and much leſs to ſet upon their Fleet or Ships; but that on the contrary, there was Com<g ref="char:EOLhyphen"/>mand given to deal with them in all places as with the beſt Friends, and to ſhew them all kinde of Favor and Courteſie. And as in the ſaid unhappy meeting things have been on both ſides otherwiſe, and very un<g ref="char:EOLhyphen"/>warily acted, whereof I made yeſterday a large Relation, which I do not intend to mention again at this preſent, nor to revive that which ought to be buried and entire<g ref="char:EOLhyphen"/>ly forgotten. Notwithſtanding, having underſtood out of the laſt. Anſwer delivered to our Ambaſſadors, that there is a Satisfaction demanded for what is paſt, and Security for the future; And my Lords the States conceive it to be neceſſary, That all Miſ-underſtanding and Miſ-conſtruction of what is lately paſſed in the ſaid Encounter may be taken away, and both States ſecu<g ref="char:EOLhyphen"/>red from the like Inconvenients hereafter; As alſo, that it be proceeded without delay in the continuating and perfecting the Treaty of Alliance ſo far advanced already: And moreover, That it be conſidered of the moſt convenient and reaſonable Means which may re<g ref="char:EOLhyphen"/>move the ſhadows of all Suſpition and Miſtruſt; and that ſuch Orders be made which the Fleets ſhall be bound to follow hereafter; to which purpoſe I have ſufficient Inſtructions from my Superiors. I deſire therefore that it may pleaſe Your Honors to commit ſome of the Members of this Honorable Counſel, with whom I may, as ſoon as is poſſible, begin, continue and
+<pb n="31" facs="tcp:118370:16"/>
+finiſh that which may ſerve to the Satisfaction of both States, and removing of all Differences: To which I muſt adde here, That my Superiors did never pre<g ref="char:EOLhyphen"/>tend nor ſhall pretend to diſpute the Honor and Dignity of this Commonwealth, which they repute the Firſt and moſt conſiderable in <hi>Europe;</hi> and wiſh that by an Union of theſe two formidable States, they might ſecure them both, preſerve them from the Conſpi<g ref="char:EOLhyphen"/>rations of their Enemies, and ſettle by a perfect In<g ref="char:EOLhyphen"/>telligence and Confidence their common Peace and Safety. In the mean time I pray yours Honors, That it may pleaſe you by your wiſe direction, to order as ſpeedily as is poſſible, that the evil may not by rea<g ref="char:EOLhyphen"/>ſon of this unhappy accident proceed any further, by committing new Offences, Purſuits, or taking of Ships, but that all Attempts and ſuch Actions may be inter<g ref="char:EOLhyphen"/>dicted and ſtopped, and not by making the wound wider, even uncurable, to expoſe our ſelves to the will and pleaſure of our Enemies; being confident, that we ſhall be able to finde convenient Remedies to remove friendly and happily the preſent Differences, to the Confuſion of thoſe who wiſh and expect it otherwiſe. I ſhall be exceedingly beholden to this Honorable Councel, if your Honors grant me a ſpeedy Anſwer upon theſe, that I may without intermiſſion begin ſo Worthy, Profitable and Neceſſary work; commend<g ref="char:EOLhyphen"/>ing my ſelf in the mean time with all Reſpects to your Honors Favor.</p>
+               <closer>
+                  <dateline>Pronounced in the Councel of State of the Par<g ref="char:EOLhyphen"/>liament of the Commonwealth of <hi>England,</hi>
+                     <date>the 22/12 of <hi>June,</hi> 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="32" facs="tcp:118370:17"/>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Monday the</hi> 14<hi rend="sup">th</hi> 
+                        <hi>of</hi> June, 1652.</date>
+At the Councel of State at <hi>White-Hall.</hi>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>IN purſuance of an Order of Parliament of the</hi> 11<hi rend="sup">th</hi> 
+                  <hi>of</hi> June, 1652. <hi>The Councel hath appointed the Lord Commiſsioner</hi> Whitlock, <hi>Lord Commiſsioner</hi> Liſle, <hi>Lord Viſcount</hi> Liſle, <hi>Lord Chief Juſtice</hi> St. John, <hi>Mr.</hi> Bond, <hi>Mr.</hi> Scot, <hi>Colonel</hi> Purefoy, <hi>Sir</hi> Henry Vane, <hi>Sir</hi> William Maſham, <hi>Colonel</hi> Martin <hi>and Colonel</hi> Mor<g ref="char:EOLhyphen"/>ley, <hi>or any three or more of them to be Commiſsioners, to meet with the Lord</hi> Pauw, <hi>Extrordinary Ambaſſador to the Parliament of the Commonwealth of</hi> England, <hi>from the States General of the United Provinces, to re<g ref="char:EOLhyphen"/>ceive from his Excellency ſuch Overtures as he ſhall pleaſe to make in writing, and to Confer and Treat with him thereupon, and make Report thereof to the Councel; and that they do meet with the ſaid Lord Ambaſſador Extraordinary, at Four of the Clock this Afternoon, in the uſual place for the purpoſe aforeſaid, and ſo from time to time as there ſhall be occaſion: And that Sir</hi> Oliver Fleming <hi>Knight, Maſter of the Ceremonies, do ſignifie the ſame unto his Lordſhip, and attend him to the place appointed.</hi>
+               </p>
+               <closer>
+                  <signed>Ex: <hi>Jo: Thurloe,</hi> Clerk of the Councel.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="33" facs="tcp:118370:17"/>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Monday</hi> 14. June, 1652.</date>
+At the Councel of State at <hi>White-Hall.</hi>
+                  </dateline>
+               </opener>
+               <p>Ordered,</p>
+               <p>
+                  <hi>THat the Commiſsioners appointed to Treat with the Lord</hi> Pauw, <hi>Extraordinary Ambaſſador of the Uni<g ref="char:EOLhyphen"/>ted Provinces, Do demand of the ſaid Lord Ambaſſador, a ſight of the Powers &amp; Authorities given to him by his Su<g ref="char:EOLhyphen"/>periors to treat and conclude upon ſuch matters and things as he hath to offer; and acquaint him, That the Parliament Deſires, That all ſpeed and expedition may be uſed on his Excellencies part in this preſent Treaty deſired by him<g ref="char:EOLhyphen"/>ſelf; aſſuring his Lordſhip, That nothing ſhall be want<g ref="char:EOLhyphen"/>ing on the part of the Councel of State which may be any way conducing to bring the ſame to a ſpeedy iſſue.</hi>
+               </p>
+               <closer>
+                  <signed>Ex: <hi>Jo: Thurloe,</hi> Clerk of the Councel.</signed>
+               </closer>
+            </div>
+            <div type="summary_of_speech">
+               <head>
+                  <hi>A Summary of what the Lord</hi> Adrian Pauw, <hi>Ex<g ref="char:EOLhyphen"/>traordinary Ambaſſador of the States General of the Vnited Provinces of the Low Countries, hath propounded to the Deputies of the Honorable Coun<g ref="char:EOLhyphen"/>cel of State of the Parliament of</hi> England, <hi>the</hi> 24 / 14 <hi>of</hi> June, 1652.</head>
+               <p>THe ſaid Lord Ambaſſador having heretofore abun<g ref="char:EOLhyphen"/>dantly Declared, That the States General (as it
+<pb n="34" facs="tcp:118370:18"/>
+will be found and always appear) have no ways deli<g ref="char:EOLhyphen"/>berated, neither in publique nor in private, much leſs given any Charge, Order or Commiſſion for commit<g ref="char:EOLhyphen"/>ting the leaſt Offence againſt the Parliament of the Commonwealth of <hi>England,</hi> their Fleets, Ships, Of<g ref="char:EOLhyphen"/>ficers or Subjects, but rather they ſhould be met with the uſual Civilities and Kindneſſes, and with the ordi<g ref="char:EOLhyphen"/>nary Expreſſions of Friendſhip; therefore none can any wiſe call into queſtion their ſincere Intentions for the maintaining and increaſing the ancient and com<g ref="char:EOLhyphen"/>mon Amity.</p>
+               <p>For the ſame reaſon, That cannot be imputed to the ſaid States General which hapned lately between both Fleets, nor ſhould thence ariſe any Diſcontent or Offence, nor any cauſe of attempting againſt their Sub<g ref="char:EOLhyphen"/>jects, being a thing directly contrary to the ancient Friendſhip and Correſpondence between both Nati<g ref="char:EOLhyphen"/>ons: And the ſaid Encounter having hapned by meer Chance and without any deſign, the ſaid Lord Am<g ref="char:EOLhyphen"/>baſſador hath propounded, Whether it were not better to lay aſide that which is paſſed, in ſo much that it ſhould be taken of both ſides as a thing not done, and ſo all be left as before; and that there might a ſpeedy order be taken for the redreſs of what hath been done ſince, in ſuch ſort, as no External nor Internal mark may remain of the ſame.</p>
+               <p>Nevertheleſs, if the pleaſure of this Honorable Councel is otherwiſe, although the ſaid Ambaſſador hath plainly and ſincerely related all which is come to the knowledge of his Superiors concerning what is paſſed, having received (as alſo the other Ambaſſadors) beſides the former Informations, before his departing,
+<pb n="35" facs="tcp:118370:18"/>
+ſeveral remarkable and conſiderable Atteſtations <hi>in probanti forma,</hi> and hath heard that there are here quite other and contrary Informations, whence it doth appear, That the parties are diſagreeing in their Evi<g ref="char:EOLhyphen"/>dences, and ſo it is a hard matter to judge clearly of the Fact.</p>
+               <p>The ſaid Ambaſſador therefore hath thought fit to propound, That the things paſſed ſhould be more exactly examined, and neceſſary Informations made by either of the parties, or conjunctim by both; that after certain knowledge gotten, the truth may be diſ<g ref="char:EOLhyphen"/>covered by Commiſſioners ſpecially deputed of both ſides upon this matter, to know which of the two hath made the firſt attempt, and given cauſe to the follow<g ref="char:EOLhyphen"/>ing Diſorders.</p>
+               <p>The ſaid Ambaſſador doth Declare, That if it may appear that the Admiral of the States General hath made the firſt Aſſault, he ſhall not onely be diſowned in the like caſe, and his Fact diſapproved of by the ſaid States General, as having tranſgreſſed againſt their Or<g ref="char:EOLhyphen"/>ders and Commiſſion, but they ſhall alſo cauſe him to be puniſhed for the ſame, according to the importance of his Attempt, for having diſobeyed their Commands, and chiefly for having given juſt cauſe of Offence to their good Friends and Neighbors: deſiring alſo of this Honorable Councel, that if on the contrary it be found true by the Informations, That the Admiral of the Commonwealth of <hi>England</hi> hath given occaſion to the ſaid Encounter, and hath the firſt Aſſaulted, it be likewiſe Declared, That the Parliament will in that caſe diſown the ſaid Admiral, and command the ſame puniſhment to be put upon him.</p>
+               <p>
+                  <pb n="36" facs="tcp:118370:19"/>
+It is to be believed, That the ſincere Intentions of the States General will not onely appear, and all ſuſpi<g ref="char:EOLhyphen"/>tions be taken away, but that the means of a juſt Repa<g ref="char:EOLhyphen"/>ration and neceſſary ſatisfaction will be eaſily found, other States and Commonwealths having taken the ſame courſe and followed the ſame method with good ſucceſs, whereof the Lord Ambaſſador hath produced divers examples.</p>
+               <p>And to the end that the like Inconveniences may no more happen hereafter, the Lord Ambaſſador hath Declared, That the States General have never had the leaſt intention, nor have yet any at this time, to leſſen in no ways the Honor and Dignity of the Parliament of the Commonwealth of <hi>England;</hi> but that they have given command heretofore, as alſo ſince the late un<g ref="char:EOLhyphen"/>happy Accident, new Order, That upon meetings and ſalutings of the Fleets or Ships of War, concerning the ſtriking down of the Flag, and what belong to it, there ſhould be the ſame Honor done to the Parliament of the Commonwealth of <hi>England</hi> as was formerly done during the other Government, hoping by this means to give and receive content reciprocally.</p>
+               <p>And as it is moſt neceſſary to confirm the mutual Friendſhip between both Nations, That the negotia<g ref="char:EOLhyphen"/>tion of the Treaty between both Commonwealths be advanced and brought to an end as ſoon as can be, the ſaid Lord Ambaſſador hath repreſented and earneſtly deſired, That ſince the Lords Extraordinary Ambaſ<g ref="char:EOLhyphen"/>ſadors have after divers Conferences, by their laſt Re<g ref="char:EOLhyphen"/>monſtrance, manifeſted their Superiors Intention con<g ref="char:EOLhyphen"/>cerning the ſaid Treaty, it ſhould alſo pleaſe the Honor<g ref="char:EOLhyphen"/>able Councel to expreſs and ſignifie theirs clearly, that
+<pb n="37" facs="tcp:118370:19"/>
+it may appear what Differences are yet to be reconciled, that all Difficulties may be removed, to come the ſoon<g ref="char:EOLhyphen"/>er to a good, firm and laſting Concluſion, by which the mindes may be on both ſides pacified, and an ever<g ref="char:EOLhyphen"/>laſting and undiſſoluble good Intelligence eſtabliſhed. Moreover, the ſaid Ambaſſador hath inſtantly deſired; That all ways of Fact and Offences be inhibited and ſtopped by Order of the Honorable Councel, and chiefly, That the Perſons, Ships and Goods of the Subjects of the United Provinces, as well Military as others, be indifferently freed and releaſed from their Reſtraint and Detention, and all that have been or are by Force detained, be ſet at Liberty; and that the In<g ref="char:EOLhyphen"/>nocents may receive no more hurt or trouble, as we are ready and reſolved to do the ſame of our part.</p>
+               <p>The ſaid Lord Ambaſſador hath alſo deſired it may pleaſe the ſaid Honorable Councel to make known to him, without loſs of time, their good Intentions and Reſolution upon what is aboveſaid; and chiefly upon the Continuation of the Treaty begun, the Ceſſation of all ways of Fact upon the relaxation of the Ships detained and arreſted perſons and goods of the Sub<g ref="char:EOLhyphen"/>jects of the United Provinces, ſeeing he hath loſt no time to Declare ſincerely from his Superiors, and aſſure the ſaid Honorable Councel of the continuation of their good Affection and perfect Friendſhip.</p>
+            </div>
+            <div type="document">
+               <pb n="38" facs="tcp:118370:20"/>
+               <opener>
+                  <dateline>
+                     <date>14<hi rend="sup">th</hi> 
+                        <hi>of</hi> June, 1652.</date> At the Councel of State at <hi>White-Hall.</hi>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>THat the Commiſsioners appointed to Treat with the Lord</hi> Pauw, <hi>Extraordinary Ambaſſador from the United Provinces, do inſiſt upon a ſight of his Autho<g ref="char:EOLhyphen"/>rities before they proceed to this Treaty.</hi>
+               </p>
+            </div>
+            <div type="paper">
+               <head>A Paper from the Lord <hi>Pauw</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>the</hi> 15<hi rend="sup">th</hi> 
+                        <hi>of</hi> June, 1652.</date>
+                  </dateline>
+                  <salute>
+                     <hi>To the Right Honorable, The Councel of State of the Commonwealth of</hi> England.</salute>
+               </opener>
+               <p>THe Extraordinary Ambaſſador of the States Ge<g ref="char:EOLhyphen"/>neral of the United Provinces having had the Honor to come twice in Conference with your Ho<g ref="char:EOLhyphen"/>nors Commiſſioners, and there to propound ſeveral things concerning the quality he cometh in, and the re-eſtabliſhing the good Friendſhip and perfect In<g ref="char:EOLhyphen"/>telligence of both Nations, intreated this Honorable Councel, That it may pleaſe your Honors to conſider what the ſaid Commiſſioners ſhall Report, that he may receive a ſpeedy and favorable Anſwer, as alſo be ex<g ref="char:EOLhyphen"/>cuſed for making ſo much inſtance, ſeeing that he is forced to it by the conjuncture of ſuch preſſing Af<g ref="char:EOLhyphen"/>fairs, and for timely preventing of the inconvenients which might follow.</p>
+               <p>
+                  <pb n="39" facs="tcp:118370:20"/>
+Whereupon a Conference being had, the Lord <hi>Pauw,</hi> to manifeſt his Powers to Treat and Conclude, inſiſt<g ref="char:EOLhyphen"/>ed on his Credentials and three Paſſes granted to him, the Copies whereof were by him delivered in, and are as followeth:</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <signed>The States General of the United Netherlands,</signed>
+                        <salute>To all thoſe that ſhall hear theſe Preſents read, or ſee, Greeting;</salute>
+                     </opener>
+                     <p>KNow ye, That we do expedite ſeveral Affairs of Importance, found good to diſpatch into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> the Lord <hi>Adrian Pauw</hi> Knight, Lord of <hi>Heemſted, Hogersmilde, Ritwick, Newkerk,</hi> Counſellor Penſioner of <hi>Holland</hi> and <hi>Weſt-Frieſland,</hi> Deputy Ordinary of the ſaid Provinces to our Aſſembly, and for this preſent our Extraordinary Ambaſſador; Therefore we do herewith Command and Require all Lieutenants, Ad<g ref="char:EOLhyphen"/>mirals, Vice Admirals, Commanders and Captains of the Ships of War of theſe Countreys hereunto Ordain<g ref="char:EOLhyphen"/>ed, or by his Excellency to be Ordained and Com<g ref="char:EOLhyphen"/>manded, That they ſhall in their reſpective Ships Re<g ref="char:EOLhyphen"/>ceive and Tranſport the Baggage of the ſaid Lord of <hi>Heemſted</hi> into <hi>England,</hi> and to do therein all what our ſaid Extraordinary Ambaſſador of them ſhall require, Accommodating him during his ſaid Paſſage in their ſaid Ships, and Reſpecting him according to their duty: And having landed our ſaid Lord Extraordinary Am<g ref="char:EOLhyphen"/>baſſador with his Train and Goods in <hi>England,</hi> to do and perform further what they already may be com<g ref="char:EOLhyphen"/>manded, or may yet be willed, as ſhall be required at the hands of thoſe that it concerns; Of all which the ſaid
+<pb n="40" facs="tcp:118370:21"/>
+Lieutenants, Admirals, Vice-Admirals, Commanders and Captains ſhall not fail, under pain to incur our higheſt Indignation.</p>
+                     <closer>
+                        <dateline>Done in the <hi>Hague</hi> under Our Seal Paraphure, and the Signiture of our Clerk, <date>this 14<hi rend="sup">th</hi> 
+                              <hi>June</hi> 1652.</date>
+                        </dateline>
+                        <signed>Signed, <hi>BO<g ref="char:V">Ʋ</g>CHORST.</hi>
+                        </signed>
+                        <signed>By the Order of the High Lords, the States General, Signed, <hi>B. R<g ref="char:V">Ʋ</g>YSCH.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <signed>The States General of the <hi>United Low-Countreys,</hi> 
+                        </signed>
+                        <salute>To all thoſe that ſhall ſee or hear the reading of theſe, Greeting;</salute>
+                     </opener>
+                     <p>KNow ye, That having found good, for the diſpatch of Affairs of Importance, to diſpatch into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> the Lord <hi>Adrian Pauw</hi> Knight, Lord of <hi>Heem<g ref="char:EOLhyphen"/>ſted, Hogersmilde, Ritwick, Newkerk,</hi> and Counſellor Penſioner of <hi>Holland</hi> and <hi>Weſt-Frieſland,</hi> Deputy Or<g ref="char:EOLhyphen"/>dinary of the ſaid Provinces in our Aſſembly, going in an Extraordinary Embaſſy, We therefore Will and Command thereupon all Lieutenants, Admirals, Vice-Admirals, Commanders and Captains of the Ships of War of theſe Countreys, That they take in and Tranſ<g ref="char:EOLhyphen"/>port the Baggage and Goods of the ſaid Lord our Am<g ref="char:EOLhyphen"/>baſſador Extraordinary, in their reſpective Ships, and Tranſport the ſame over into <hi>England,</hi> in maner as the ſaid Lord Extraordinary Ambaſſador ſhall deſire to Tranſport, and as his Lordſhip ſhall command and de<g ref="char:EOLhyphen"/>ſire;
+<pb n="41" facs="tcp:118370:21"/>
+Accommodating alſo his Lordſhip on ſhip-board, and uſing all Reſpect to the ſaid Extraordinary Ambaſ<g ref="char:EOLhyphen"/>ſador, his Train and Baggage; and having landed them in <hi>England,</hi> to do further as they ſhall be commanded, or already are commanded, or may yet be command<g ref="char:EOLhyphen"/>ed, as appertaineth to all that it concerneth of all the ſaid Lieutenants, Vice-Admirals, Commanders and Captains which ſhall not perform their Duty, ſhall be puniſhed according to our higheſt Indignation.</p>
+                     <closer>
+                        <dateline>Given in the <hi>Hague</hi> under our Catchet or Seal Para<g ref="char:EOLhyphen"/>phure and ſign of our Clerk on <date>the Fourteenth day of <hi>June,</hi> 1652.</date>
+                        </dateline>
+                        <signed>Signed, <hi>BO<g ref="char:V">Ʋ</g>CHORST.</hi>
+                        </signed>
+                        <signed>By the Order of the ſaid High and Mighty Lords States General, Signed, <hi>B. R<g ref="char:V">Ʋ</g>YSCH.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <signed>The General States of the United Provinces of the <hi>Low-Countreys,</hi>
+                        </signed>
+                        <salute>To all that ſhall ſee theſe Preſents, Greeting;</salute>
+                     </opener>
+                     <p>WHereas, for the common good of Chriſtendom, and for the advancement of Affairs of great Conſideration, Importance and Conſequence, we have found good to ſend towards the Parliament of the Commonwealth of <hi>England</hi> the Lord <hi>Adrian Pauw</hi> Knight, Lord of <hi>Hemſted, Hogerſmild, Rietwick, Niewer<g ref="char:EOLhyphen"/>kirk, &amp;c.</hi> Counceller Penſioner of <hi>Holland</hi> and <hi>Weſt-Freizland,</hi> Deputy in Ordinary from this Province
+<pb n="42" facs="tcp:118370:22"/>
+in our Aſſembly, in quality of our Extraordinary Am<g ref="char:EOLhyphen"/>baſſador, requiring all Lieutenants, Governors, Chiefs, Colonels, Captains, and Men of War, Guards of Bridges, Ports and Paſſages, all places; and beſides, all other Juſtices, Officers and Subjects of the ſaid Com<g ref="char:EOLhyphen"/>monwealth of <hi>England,</hi> to ſuffer him with his Train, Servants, Followers, Goods and Baggage, to go, paſs and repaſs freely, and without trouble both by water and land, without doing him, or giving him, and ſuf<g ref="char:EOLhyphen"/>fering to be given him, made or done, any trouble, hinderance or diſturbance: But rather, all aid, help, favor and aſſiſtance neceſſary and requiſite, and that we would acknowledge the ſame moſt willingly in time and place.</p>
+                     <closer>
+                        <dateline>Given at the <hi>Hague</hi> in our Aſſembly under our Seal Paraphure and ſigning of our Clerk,
+<date>the Four<g ref="char:EOLhyphen"/>teenth of <hi>June,</hi> 1652.</date>
+                        </dateline>
+                        <hi>Was Marked</hi> 
+                        <signed>A. BOUCHORST.</signed>
+                        <hi>And lower it was Written,</hi>
+                        <signed>By Order of the ſaid States General was Signed, B. RUYSCH.</signed>
+With the Signet of the ſaid General States in red Wax.</closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="order">
+               <pb n="43" facs="tcp:118370:22"/>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Tueſday the</hi> 15<hi rend="sup">th</hi> 
+                        <hi>of</hi> June, 1652.</date> At the Councel of State at <hi>White-Hall.</hi>
+                  </dateline>
+               </opener>
+               <p>Ordered,</p>
+               <p>
+                  <hi>THat Report be made to the Parliament of what the Counſel have Ordered and Directed touching the Conference with the Lord</hi> Pauw, <hi>Extraordinary Am<g ref="char:EOLhyphen"/>baſſador from the Lords the States General, and of the Papers by him delivered to the Commiſsioners of the Counſel, That by theſe Papers it not appearing to the Councel that the ſaid Ambaſſador hath any power to Treat or Conclude; The Counſel have thought fit humbly to preſent and ſubmit the whole to the Conſideration of the Parliament for their Judgement thereupon.</hi>
+               </p>
+            </div>
+            <div type="translation_of_letter">
+               <head>Tranſlation of the Letter of the Lord <hi>Pauw</hi> to the Lord Preſident of the Councel of State.</head>
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>HAving communicated to my Lords the Ambaſ<g ref="char:EOLhyphen"/>ſadors Extraordinary of the United Provinces to the Parliament of the Commonwealth of <hi>England,</hi> what paſſed in my Audience and Conference with the Commiſſioners of the Councel of State, and having ſhewed unto them the Inſtructions and Orders of my Superiors, they have thought fit to addreſs the in<g ref="char:EOLhyphen"/>cloſed Paper to my Lords of the ſaid Counſel of State: But for as much as Sir <hi>Oliver Flemimg</hi> Maſter of the
+<pb n="44" facs="tcp:118370:23"/>
+Ceremonies hath ſignified unto me, That their Excel<g ref="char:EOLhyphen"/>lencies had thought fit to make a Report of the whole Buſineſs to the Parliament this morning, I judged it convenient to intreat your Excellency, That the ſaid Paper may be put into the hands of the Reporter, to be communicated (as well as the other Propoſitions and Papers) to my Lords of the Parliament: Praying God (my Lord) to bleſs theſe Affairs for his Glory and the Proſperity of both Nations, I will remain ever</p>
+               <closer>
+                  <dateline>
+                     <date>The <hi>16/26 June.</hi> 1652.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your Excellencies moſt humble Servant,</hi> 
+                     <hi rend="smallCaps">Adrian Pauw.</hi>
+                  </signed>
+               </closer>
+               <trailer type="direction">
+                  <hi>For my Lord the Earl of</hi> Pembroke <hi>and</hi> Montgomery, <hi>Preſident of the Coun<g ref="char:EOLhyphen"/>cel of State of the Commonwealth of</hi> England.</trailer>
+            </div>
+            <div type="paper">
+               <head>The Paper of the Three Extraordinary Ambaſſadors, mentioned in the former Letter.</head>
+               <opener>
+                  <salute>
+                     <hi rend="smallCaps">My Lords,</hi>
+                  </salute>
+               </opener>
+               <p>THe Lord <hi>Adrian Pauw,</hi> Lord of <hi>Heemſted,</hi> Am<g ref="char:EOLhyphen"/>baſſador Extraordinary of the <hi>United Provinces</hi> of the Low-Countreys, having communicated to us what paſſed at the Conferences with the Commiſſion<g ref="char:EOLhyphen"/>ers; And having ſhewed unto us his Inſtructions, and all the Orders of the Lords States General of the ſaid <hi>United Provinces,</hi> We would not omit to aſſure your
+<pb n="45" facs="tcp:118370:23"/>
+Excellencies, that we have found the whole in as good Form and as Valid as can be deſired; And we are very well content, by vertue of the Powers which have been given us and exhibited and approved, to obliege our ſelves and ſubſcribe whatſoever the ſaid Lord of <hi>Heem<g ref="char:EOLhyphen"/>ſted</hi> hath Tranſacted and Negotiated in Proſecution of the ſaid Orders; As alſo whatſoever he may Tranſact or Negotiate as above, either by himſelf or joyntly with us, as ſhall be thought moſt conducing to the better perfecting of the Treaty of Alliance between the Commonwealth of <hi>England</hi> and the United Pro<g ref="char:EOLhyphen"/>vinces of the <hi>Low-Countreys.</hi>
+               </p>
+               <closer>
+                  <dateline>Given <date>the 26<hi rend="sup">th</hi> of <hi>June,</hi> 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="Parliamentary_resolution">
+               <opener>
+                  <dateline>
+                     <date>Thurſday the 17<hi rend="sup">th</hi> of <hi>June,</hi> 1652. </date>
+                  </dateline>
+               </opener>
+               <opener>Reſolved upon the Queſtion by the Parliament,</opener>
+               <p>
+                  <hi>THat upon Conſideration of the Report made from the Councel of State, the Parliament doth think fit and order, That the Councel of State do proceed with the Lord</hi> Pauw, <hi>Ambaſſador Extraordinary from the Lords the States General of the</hi> United Provinces, <hi>ac<g ref="char:EOLhyphen"/>cording to former Directions.</hi>
+               </p>
+               <closer>
+                  <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+               </closer>
+            </div>
+            <div type="paper">
+               <pb n="46" facs="tcp:118370:24"/>
+               <opener>A Paper received from the Lord <hi rend="smallCaps">Pauw,</hi>
+                  <dateline>
+                     <date>17 <hi>Iune,</hi> 1652.</date>
+                  </dateline>
+                  <salute>To the Right Honorable, The Councel of State.</salute>
+               </opener>
+               <p>THe Ambaſſador Extraordinary of the States Ge<g ref="char:EOLhyphen"/>neral of the United Provinces of the <hi>Low-Coun<g ref="char:EOLhyphen"/>treys,</hi> finde himſelf neceſſitated to Demand moſt in<g ref="char:EOLhyphen"/>ſtantly another Audience of the Lords Commiſſioners of the Honorable Councel, and that as ſoon as poſſible may be, as well to receive from them the moſt deſired Anſwer upon thoſe things that he hath already pro<g ref="char:EOLhyphen"/>pounded in the laſt Conferences, as alſo to make to their Honors, according to the expreſs Charge he hath from his Superiors, others Overtures upon things of ſo high Concernment, that they can ſuffer no Delay; Therefore he deſireth earneſtly, That this juſt Demand be as ſoon as can be granted unto him.</p>
+            </div>
+            <div type="translation_of_paper">
+               <head>A Tranſlation of the Paper of the Lord Ambaſſador <hi rend="smallCaps">Pauw,</hi> 17 June, 1652.</head>
+               <p>THe Extraordinary Ambaſſador of the United Pro<g ref="char:EOLhyphen"/>vinces hath repreſented to the Lords Commiſſion<g ref="char:EOLhyphen"/>ers of the Honorable Councel of State, in the third Conference held this day, as followeth:</p>
+               <p>That the States of the United Provinces have ſhew<g ref="char:EOLhyphen"/>ed themſelves, and are yet reſolved to remain faſt to the Amity and intimate Correſpondence with this Commonwealth, as they have yet of late made it ap<g ref="char:EOLhyphen"/>pear,
+<pb n="47" facs="tcp:118370:24"/>
+by granting, during theſe falling out, to the Com<g ref="char:EOLhyphen"/>pany of Engliſh Merchants Adventurers ſetled in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> all the Security and Protection that they have deſired, even with this annexed Promiſe, To continue in the ſame good will towards them, though the Diſtemper ſhould proceed further.</p>
+               <p>That which hapned about <hi>Dover</hi> or the <hi>Downs</hi> ſhould not breed a general Quarrel between the two States, but that the ſame Miſchance ſhould be taken for a per<g ref="char:EOLhyphen"/>ſonal action, for which thoſe are to anſwer who ſhall be found to have exceeded their Commiſſion.</p>
+               <p>And to the end that this Buſineſs might be compo<g ref="char:EOLhyphen"/>ſed according to the Fact, and the neceſſary ſatisfaction done, That it were moſt fit and expedient to have it examined by Commiſſioners deputed of both ſides, to have that perſon puniſhed which ſhall be found guilty according to the uſe and Maxims of all States and Commonwealths, by which means, their quiet and tranquility, as well within as without with their Neigh<g ref="char:EOLhyphen"/>bors, is conſerved.</p>
+               <p>Moreover, That the Ships of War meeting at Sea, and behaving themſelves as before and during the time of the former Government, there ſhall be there upon no more diſpute hereafter.</p>
+               <p>And that when the Confederation now to be done ſhall be concluded, according to the earneſt deſire of the States General, the Friendſhip between both States and their Subjects ſhall be more perfect, per<g ref="char:EOLhyphen"/>manent, confident and inviolable; and the truly Or<g ref="char:EOLhyphen"/>thodox Religion, which they by Gods ſpecial favor do profeſs, ſhall have a moſt potent and ſure pro<g ref="char:EOLhyphen"/>tection.</p>
+               <p>
+                  <pb n="48" facs="tcp:118370:25"/>
+The ſaid Ambaſſador having again propounded the aforeſaid means, and having added to them ſeveral Reaſons and Arguments of great Strength, hath de<g ref="char:EOLhyphen"/>ſired to be informed thereupon of the intent of the Ho<g ref="char:EOLhyphen"/>norable Councel of State, offering to anſwer and give ſatisfaction upon the remaining Difficulties.</p>
+               <p>Or otherwiſe, That it might pleaſe the Lords Com<g ref="char:EOLhyphen"/>miſſioners to confer with him upon that matter, or to propound on their part what they may finde to be rea<g ref="char:EOLhyphen"/>ſonable and juſt to compoſe ſpeedily that unhappy Accident, promiſing to contribute of his ſide all that ſhall any ways be in his power, with his moſt earneſt Intreaties, That the Honorable Councel might be without delay acquainted withal, and that the time and preſent Affairs might be ſo well husbanded, that the Buſineſs might be compounded by convenient ways, and without interruption of the publique Peace and further exacerbation of the Mindes and Spirits of both Nations. All which the ſaid Ambaſſador hath recommended and offered with much Affection to pre<g ref="char:EOLhyphen"/>vent all Provocations and Inconvenients.</p>
+            </div>
+            <div type="answer">
+               <head>
+                  <hi>The Anſwer of the Councel of State to the Summary of the Lord</hi> Adrian Pauw, <hi>Extraordinary Am<g ref="char:EOLhyphen"/>baſſador of the States General of the Vnited Pro<g ref="char:EOLhyphen"/>vinces, preſented to the Councel the 24/14 of this inſtant</hi> June.</head>
+               <p>WHat the thoughts and judgement of the Par<g ref="char:EOLhyphen"/>liament have been concerning the late Inten<g ref="char:EOLhyphen"/>tions
+<pb n="49" facs="tcp:118370:25"/>
+of the Lords your Superiors, and the late Actings of your Fleet within the very Roads of <hi>England;</hi> your Excellency hath underſtood by the Parliaments An<g ref="char:EOLhyphen"/>ſwer given unto the three Papers of the Extraordinary Ambaſſadors of your State before your Excellencies arrival here; which Anſwer, together with the ſtate of the Fact, and the Examinations thereupon had, and then given in, your Lordſhip takes notice of in your Papers now before the Councel; neither doth any cauſe appear to vary from that Judgement upon any thing ſince offered by your Excellency. And ſince the At<g ref="char:EOLhyphen"/>tempt made by the Fleet of the United Provinces, with the Preparations thereunto (all projected and acted by way of ſurpriſe and in a time of Treaty) had the ſame prevailed, would have highly hazarded the ſafety of <hi>England.</hi> It cannot ſtand with reaſon, That this Commonwealth after ſuch a Warning and great Pre<g ref="char:EOLhyphen"/>ſervation (which they owe onely to God) ſhould leave it ſelf naked and expoſed to the like danger for the fu<g ref="char:EOLhyphen"/>ture, or ſuffer it ſelf in a caſe ſo evident and notorious, under pretence of more ſolemn Examinations, or from examples of other States which ſuit not with this caſe, to be diverted from applying Remedies agreeable to the nature of this evil. And therefore the Councel can<g ref="char:EOLhyphen"/>not admit of what is propounded by your Excellency, either as to the paſſing by what is done, or attending the way of Examinations mentioned in your Papers, which to them ſeem needleſs, dilatory, and impra<g ref="char:EOLhyphen"/>cticable.</p>
+               <p>Touching the overture of re-admitting the late Treaty begun by the other Lords Ambaſſadors Extraordinary of your Nation, after ſo high a breach thereof, we
+<pb n="50" facs="tcp:118370:26"/>
+conceive it cannot be ſeaſonable until the Wound now under Cure be througly cloſed and healed.</p>
+               <p>And whereas your Excellency hath thought fit frequently to aſſert the amicable Minde and Intentions of the Lords your Superiors towards this Common<g ref="char:EOLhyphen"/>wealth, and hath given inſtances of ſome late Or<g ref="char:EOLhyphen"/>ders and Acts tending to the expreſſion of the ſame; ſpecially concerning the Honor and Reſpect to be paid unto this Commonwealth at Sea (being the ancient and undoubted Right of this Nation) and granting of the Protection deſired by the Engliſh Merchants now at <hi>Rotterdam:</hi> The Parliament hath not been want<g ref="char:EOLhyphen"/>ing on their part from time to time to manifeſt their deſires of Amity with the United Provinces of the <hi>Low Countreys,</hi> nor to afford unto the people thereof reſiding here all neceſſary Protection though unde<g ref="char:EOLhyphen"/>ſired; Nevertheleſs, in the preſent poſture of Affairs it cannot reaſonably be expected, That this State ſhould forbear the proſecution mentioned in the Par<g ref="char:EOLhyphen"/>liaments ſaid Anſwer for the ends therein expreſſed.</p>
+               <closer>
+                  <dateline>
+                     <hi>White-Hall,</hi> 
+                     <date>19. June, 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="translation_of_paper">
+               <pb n="51" facs="tcp:118370:26"/>
+               <head>A Tranſlate of a Paper of the Lord Ambaſſa<g ref="char:EOLhyphen"/>dor <hi>Pauw</hi> of the 1/22 July June, deſiring a Confe<g ref="char:EOLhyphen"/>rence with the Commiſsioners of the Councel of <hi rend="smallCaps">State.</hi>
+               </head>
+               <opener>
+                  <salute>To the Right Honorable Councel of State.</salute>
+               </opener>
+               <p>THe Extraordinary Ambaſſador of the United Pro<g ref="char:EOLhyphen"/>vinces, having 29<hi rend="sup">th</hi> / 19<hi rend="sup">th</hi> of this inſtant about the Even<g ref="char:EOLhyphen"/>ing, received by the hands of Sir <hi>Oliver Fleming</hi> the Anſwer which the Honorable Councel of State hath been pleaſed to give him, upon the Summary of thoſe things by him propounded the 24<hi rend="sup">th</hi> / 14<hi rend="sup">th</hi>, He findeth himſelf bound to Demand moſt inſtantly another Conference with the Lords Commiſſioners of the Councel, that he may explain unto them more particularly and more fully his Superiors Intentions, and the better perform the Duty of his Office.</p>
+            </div>
+            <div type="paper">
+               <head>Another Paper of the Lord <hi rend="smallCaps">Pauw</hi> of the 21<hi rend="sup">th</hi> of <hi>Iune,</hi> 1652.</head>
+               <opener>
+                  <salute>To the Honorable Councel of State.</salute>
+               </opener>
+               <p>THe Extraordinary Ambaſſador of the United Pro<g ref="char:EOLhyphen"/>vinces having the 29<hi rend="sup">th</hi> / 19<hi rend="sup">th</hi> of <hi>June</hi> in the Evening ſome<g ref="char:EOLhyphen"/>thing late, received by the hands of Sir <hi>Oliver Fleming,</hi> the Anſwer which the Honorable Counſel hath been pleaſed to give him upon the Summary of the things propounded the 24<hi rend="sup">th</hi> / 14<hi rend="sup">th</hi> of the ſame Moneth.</p>
+               <p>
+                  <pb n="52" facs="tcp:118370:27"/>
+He hath thought himſelf bound for the better per<g ref="char:EOLhyphen"/>formance of the Duty of his Imployment, to aſſert again here ingeniouſly as he hath done before, accord<g ref="char:EOLhyphen"/>ing to the Notice and Knowledge he hath of the moſt intimate Deliberations and Conſultations of the States General his Superiors, That they having no ways pro<g ref="char:EOLhyphen"/>pounded, deliberated nor reſolved to give any Suſpi<g ref="char:EOLhyphen"/>tion, or the leaſt occaſion of Offence againſt the Fleet or Ships of this Commonwealth: He did believe, That it would have been ſufficient to take away all conceits of the contrary; He hath alſo truly repreſented the Ac<g ref="char:EOLhyphen"/>cident happened between the two Fleets by <hi>Dover</hi> or the <hi>Downs,</hi> as it came to the knowledge of his Supe<g ref="char:EOLhyphen"/>riors by ſincere Atteſtations of truſty and blameleſs Perſons: And hath, to avoid all further Conteſtations, in ſtead of inſiſting upon thoſe Proofs, opened a way by which the true and infallible Knowledge of the ſame might have been found out, and by that means the ſa<g ref="char:EOLhyphen"/>tisfaction done that could be lawfully pretended.</p>
+               <p>Therfore that miſchance cannot be any ways imputed to his Superiors, who never had the leaſt thought, nor in any ſort contributed towards the Infraction of the Friendſhip, which hath always been moſt dear to them, and leſs towards the Interruption of the Treaty of Confederation; for the perfecting of which they have had, and have ſtill here their Extraordinary Ambaſ<g ref="char:EOLhyphen"/>ſadors.</p>
+               <p>That may ſufficiently appear by the firm and con<g ref="char:EOLhyphen"/>ſtant Reſolution of his Superiors, that have never been wlling to grant any Letters of Mart or Repriſal upon the continual Complaints and reiterated Petitions, even the Importunities of the Perſons intereſſed in the
+<pb n="53" facs="tcp:118370:27"/>
+ſhips taken, arreſted and confiſcated here, for fear of giving any occaſion of Diſcontent to this Common<g ref="char:EOLhyphen"/>wealth.</p>
+               <p>The ſame is clearly ſeen by the Protection granted to the Engliſh Company ſetled at <hi>Rotterdam</hi> (though <hi>ex ſuperabundanti,</hi> and they had no need of the ſame) to expreſs more ſpecially their good Intentions, the which may be alſo juſtified by all their actions; none of this State having yet to this preſent received the leaſt Damage, Offence or Injury for all the ſaid Proceed<g ref="char:EOLhyphen"/>ings; even our ſhips of War having rather ſuffered them<g ref="char:EOLhyphen"/>ſelves to be brought into the Ports of <hi>England,</hi> and there to be detained, then endeavored to defend them<g ref="char:EOLhyphen"/>ſelves againſt thoſe whom they have always made ac<g ref="char:EOLhyphen"/>count to be their good Friends, as having never heard of any publication to the contrary.</p>
+               <p>And to make that Teſtimony of Friendſhip the more Authentical to this Commonwealth, His Superiors have ſent a ſecond extraordinary Embaſſage, to diſabuſe all thoſe that might be pre-occupated or miſ-informed, and to help the furthering and perfecting of the ſaid Treaty.</p>
+               <p>But in caſe all thoſe Overtures and means of Recon<g ref="char:EOLhyphen"/>ciliation be rejected, and it be reſolved here to make uſe of thoſe ways, which in ſtead of aſſwaging ſhall in<g ref="char:EOLhyphen"/>creaſe the evil, and which being againſt all Maxims of all States and Commonwealths (who never give their Judgement upon Signs, Preſumptions and Suſpitions, but upon Infallible and Unrepreachable proofs, and as clear as the Sun is at noon, and who during a Treaty do always command moſt ſtrictly a ceſſation of all ways of Fact) ſhall the more ſurprize my Superiors, and cauſe
+<pb n="54" facs="tcp:118370:28"/>
+ſtrange Alarms to their Peoples, by making thoſe ſuffer which are guiltleſs and come from far, who never had the leaſt ſuſpition or heard the leaſt rumor of a falling out between both States.</p>
+               <p>Whereupon, the ſaid Ambaſſadors muſt needs be very much ſurprized and ſorry, deſiring, That the ſaid Lords Commiſſioners be pleaſed (that no way for a happy Agreement may be neglected) to propound for on their part ſome other expedients (ſeeing they have expreſſed in their laſt Anſwer given to the other Extra<g ref="char:EOLhyphen"/>ordinary Ambaſſadors, <hi>That the moſt ſweet ways will be always the moſt pleaſing to them)</hi> which may be fit, ſatisfactory and convenient to compoſe as ſoon as can be that unhappy Buſineſs, and reſtore all things in their firſt temper.</p>
+               <p>And that in the mean time they be alſo pleaſed to inhibit all ways of Fact, and to give Order, That the Ships detained may be ſpeedily ſet at liberty, praying very earneſtly the Honorable Councel to explain their minde thereupon, as alſo to give an Anſwer upon the laſt Articles of the Paper exhibited the 27/17 of <hi>June,</hi> to make him the more able to contribute his beſt Offices for the good and ſtrengthning of the two Common<g ref="char:EOLhyphen"/>wealths.</p>
+               <closer>
+                  <dateline>
+                     <date>This 21 June / 1 July 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="paper">
+               <pb n="55" facs="tcp:118370:28"/>
+               <head>Another Paper of the Lord <hi>Pauw 23 June,</hi> 1652.</head>
+               <opener>
+                  <salute>To the Honorable Councel of State.</salute>
+               </opener>
+               <p>THe Extraordinary Ambaſſador of the United Provinces conſidering the importance of the Af<g ref="char:EOLhyphen"/>fairs now in hands, and the eminent dangers that threat<g ref="char:EOLhyphen"/>en both States, is forced to be importunate with your Honors, in recommending moſt earneſtly the care of your Anſwer upon his laſt Conference, and intreating you with all his Affections, That the ſame may be a convenient and lawful means to aſſway the Differences and reſtore the Union and perfect Intelligence be<g ref="char:EOLhyphen"/>tween both Commonwealths and their reciprocal Subjects.</p>
+               <closer>
+                  <dateline>
+                     <date>This 23 June / 3 July 1562.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="answer">
+               <head>The Anſwer of the Parliament to that part of the Paper given in by the Lord <hi>Pauw,</hi> whereby he deſires the Commiſsioners of the Councel to propound what they ſhall think reaſonable and juſt to compoſe ſpeedily the preſent Differences between this Commonwealth and the Lords the States General of the United Provinces.</head>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Friday the</hi> 25<hi rend="sup">th</hi> 
+                        <hi>of</hi> June, 1652.</date>
+                  </dateline>
+               </opener>
+               <p n="1">THat the Lords the States General of the United Provinces do pay and ſatisfie unto this Common<g ref="char:EOLhyphen"/>wealth
+<pb n="56" facs="tcp:118370:29"/>
+the Charges and Damages this State hath ſu<g ref="char:EOLhyphen"/>ſtained and been put unto, by the Preparations of the ſaid States General, and their Attempts this ſummer; the Particulars whereof ſhall be in due time produced.</p>
+               <p n="2">II. That upon the Payment of the Sum to be agreed up on as aforeſaid, for Charges and Damages, or ſecu<g ref="char:EOLhyphen"/>ring the ſame to the ſatisfaction of the Parliament, there ſhall follow immediately thereupon a Ceſſation of all Acts of Hoſtilility, and the Ships and Goods ta<g ref="char:EOLhyphen"/>ken ſince the late Differences ſhall be releaſed.</p>
+               <p n="3">III. The two former Propoſitions being aſſented unto, and put in Execution, the ſecurity for the time to come, which the Parliament does expect, is by both States contracting a firm Alliance, and Conſiſtency of Inte<g ref="char:EOLhyphen"/>reſt for the good of both; which the Parliament of <hi>England</hi> is willing on their part by all juſt Ways and Means to endeavor.</p>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Friday</hi> 25<hi rend="sup">o</hi> Junii, 1652.</date> At the Councel of State at <hi>White-Hall.</hi>
+                  </dateline>
+               </opener>
+               <p>Ordered,</p>
+               <p>
+                  <hi>THat the Commiſsioners appointed formerly to meet and Treat with the Lord</hi> Pauw, <hi>Extraordinary Am<g ref="char:EOLhyphen"/>baſſador of the</hi> United Provinces, <hi>Do deliver unto the ſaid Lord Ambaſſador the Anſwer of the Parliament of
+<pb n="57" facs="tcp:118370:29"/>
+the</hi> 25<hi rend="sup">th</hi> 
+                  <hi>of</hi> June <hi>inſtant, to that part of the Paper pre<g ref="char:EOLhyphen"/>ſented unto them by the Councel, from the ſaid Lord</hi> Pauw, <hi>whereby his Lordſhip doth deſire the Commiſsion<g ref="char:EOLhyphen"/>ers of the Councel to propound what they ſhould think reaſonable and juſt, to compoſe ſpeedily the preſent Dif<g ref="char:EOLhyphen"/>ferences between this Commonwealth and the Lords the States General of the</hi> United Provinces.</p>
+               <closer>
+                  <signed>Ex: <hi>Jo: Thurloe,</hi> Clerk of the Councel.</signed>
+               </closer>
+            </div>
+            <div type="paper">
+               <head>A Paper of the Lord <hi>Pauw, 26 Iune,</hi> 2652.</head>
+               <opener>
+                  <salute>To the Right Honorable Councel of State.</salute>
+               </opener>
+               <p>THe Extraordinary Ambaſſador of the <hi>United Pro<g ref="char:EOLhyphen"/>vinces,</hi> having yeſterday had a Conference with the Lords Commiſſioners of the Counſel, and received from them two Papers upon the ſame Subject; He de<g ref="char:EOLhyphen"/>ſireth earneſtly they will be pleaſed to give again order without loſs of time, for a new Conference with the ſaid Lords Commiſſioners, that ſome things may be better explained and cleared of both ſides, and a ſpee<g ref="char:EOLhyphen"/>dy Compoſure made of the Buſineſs.</p>
+               <closer>
+                  <dateline>
+                     <date>This 26 June / 6 July 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="paper">
+               <pb n="58" facs="tcp:118370:30"/>
+               <head>Another Paper of the Lord <hi rend="smallCaps">Pauw,</hi> the ſame day.</head>
+               <opener>
+                  <salute>To the Honorable Councel of State.</salute>
+               </opener>
+               <p>THe Extraordinary Ambaſſador of the <hi>United Pro<g ref="char:EOLhyphen"/>vinces</hi> hath propounded at a Conference held the 26 of June / 6 of July 1652 with the Lords Commiſſioners of the Councel of State the following Articles.</p>
+               <p>That the States General having been forced for the Reaſons already alledged, to make extraordinary Pre<g ref="char:EOLhyphen"/>parations at Sea, have been put to exceeding great Charges, which do continue yet at this preſent.</p>
+               <p>That their Subjects, beſide the extream great Loſſes they have had heretofore at Sea, have received very great ones by the Letters of Mart granted as well a<g ref="char:EOLhyphen"/>gainſt the French as againſt the ſaid Subjects of the <hi>United Provinces,</hi> and upon ſome other pretences.</p>
+               <p>That the State and their ſubjects have ſuffered much, and received great Damages of late by the taking and ſpoiling of ſeveral Ships of War, and by the Arreſting of all the Merchants ſhips.</p>
+               <p>And that if it ſhould be thought of a Reimburſing of the charges &amp; damages, they ſhould be weighed of both ſides one againſt the other, and that it ſhould be conſi<g ref="char:EOLhyphen"/>dered, whether they have not been greater on the <hi>Uni<g ref="char:EOLhyphen"/>ted Provinces</hi> ſide.</p>
+               <p>However there muſt a reaſonable Eſtimation be made, and the Buſineſs not referred to aproduction of Accounts, which requireth a long Examination.</p>
+               <p>And if the ſaid Commiſſioners be pleaſed to cauſe that Eſtimation to be made in moderate Terms on
+<pb n="59" facs="tcp:118370:30"/>
+their part, it will appear from thenee whether there is at this ſide any willingneſs or intent to Compound the things paſſed according to reaſon and friendly, or whether there is a Deſign to propound things impoſſi<g ref="char:EOLhyphen"/>ble and unfeaſible.</p>
+               <p>As concerning the Confederacy between both Com<g ref="char:EOLhyphen"/>monwealths, and the mutual Help aſſiſting one an<g ref="char:EOLhyphen"/>other againſt thoſe that ſhall offend or aſſault them, the other Extraordinary Ambaſſadors have made the true Intentions of their Superiors known thereupon, and are ready to go on in the ſame Negotiation, and to bring it to an end without loſs of time.</p>
+               <p>If the ſaid Lords Commiſſioners do think fit that the ſaid Confederacy ſhould be more ample and more ſtrict, that will not onely be more pleaſing to the ſaid Ambaſſador, but he alſo entreateth very earneſtly, that he may be clearly informed thereupon.</p>
+               <p>Putting at the ſame time into conſideration, whe<g ref="char:EOLhyphen"/>ther it will not be moſt convenient, even moſt neceſſary to give order, That the Fleets do not come near nor en<g ref="char:EOLhyphen"/>gage any more one with the other; the ſaid Ambaſſador fearing much it ſhould ſoon be commanded otherways at the other ſide, chiefly if the aboveſaid Order be not ſpeedily given here.</p>
+               <p>And deſiring moreover, That the Ships which are arreſted may be ſpeedily releaſed, and that no Prize may be longer detained, to the end that the Mindes be<g ref="char:EOLhyphen"/>ing ſomething pacified, they may be rather invited by mutual Friendſhip and Love, and of their own accord, then brought by conſtraint to unite again by an undiſ<g ref="char:EOLhyphen"/>ſoluble Confederacy.</p>
+               <p>As alſo, That the ſaid Ambaſſador may receive up<g ref="char:EOLhyphen"/>on
+<pb n="60" facs="tcp:118370:31"/>
+theſe ſo ſpeedy and ſo favorable a Declaration, that he may with more hope of ſucceſs uſe his Endeavors with his Superiors, and effect what in this conjuncture of time and Affairs, is moſt expedient and neceſſary, and that he may do it without delay, according to the Expreſs Order he hath from his ſaid Superiors, which he is bound to follow exactly.</p>
+               <p>The Councel of State having conſidered of the Paper this evening delivered in by their Commiſſioners from the Lord <hi>Pauw</hi> Extraordinary Ambaſſador of the Lords the States General of the United Provinces, and finding therein no clear or direct Anſwer to the laſt Paper of Demands tendered unto his Excellency in the name of the Parliament, They do deſire a ſpeedy and poſitive Anſwer thereunto, at leaſt unto the firſt Article thereof, eſpecially, becauſe that being aſſented unto, the Councel might ſpeedily apply themſelves to a reaſonable and moderate aſcertaining the ſum; to the end, That immediately upon performance of the ſe<g ref="char:EOLhyphen"/>cond Article, all acts of Hoſtility might be forborn, and reſtitution made of the Ships and Goods detained. The third Article in the nature thereof not requiring ſo preſent a Tranſaction.</p>
+               <closer>
+                  <dateline>
+                     <hi>White-Hall,</hi> 
+                     <date>26. June, 1652.</date>
+                  </dateline>
+                  <signed>Ex: <hi>Jo: Thurloe</hi> Clerk of the Councel.</signed>
+               </closer>
+            </div>
+            <div type="paper">
+               <pb n="61" facs="tcp:118370:31"/>
+               <head>
+                  <hi>A Paper from the Lord</hi> Pauw <hi>the 17<hi rend="sup">th</hi> of</hi> June, 1652.</head>
+               <opener>
+                  <salute>To the thrice Illuſtrious Councel of State;</salute>
+               </opener>
+               <p>THe Extraordinary Ambaſſador of the United Pro<g ref="char:EOLhyphen"/>vinces having conſidered the Anſwer delivered un<g ref="char:EOLhyphen"/>to him yeſterday at evening by Sir <hi>Oliver Fleming</hi> up<g ref="char:EOLhyphen"/>on the Conſiderations heretofore by him propounded, doth moſt inſtantly crave, That it may pleaſe this thrice Illuſtrious Councel of State to grant him one other Conference this afternoon, that he may more particularly deduct the Intentions of his Superiors, and withal likewiſe ſatisfie both their Excellencies and his own duties.</p>
+               <closer>
+                  <signed>Signed, <hi>Adrian Pauw.</hi>
+                  </signed>
+                  <dateline>
+                     <date>This 27 June / 7 July 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="paper">
+               <head>Another Paper of the Lord <hi>Pauw,</hi> 27<hi rend="sup">th</hi> 
+                  <hi>June,</hi> 1652.</head>
+               <opener>
+                  <salute>To the Right Honorable, The Councel of State.</salute>
+               </opener>
+               <p>WHile the Extraordinary Ambaſſador of the Uni<g ref="char:EOLhyphen"/>ted Provinces was buſied about the writing of the Anſwer upon the Paper delivered to him yeſterday very late by Sir <hi>Oliver Fleming</hi> from this Honorable Councel, he was to his great grief informed, That this
+<pb n="62" facs="tcp:118370:32"/>
+Commonwealths Fleet was gone to Sea to execute ſome deſign.</p>
+               <p>The ſaid Ambaſſador hath alſo by ſeveral Letters received Order from his Superiors, That in caſe he could not obtain, by all poſſible endeavors, the Ceſſa<g ref="char:EOLhyphen"/>tion of acts of Hoſtility, he ſhould with all ſpeed re<g ref="char:EOLhyphen"/>turn back again into the <hi>Low-Countreys</hi> to acquaint them with his Negotiation.</p>
+               <p>And as the ſaid Ambaſſador can advance no further in the ſaid Negotiation of which he was charged to give an Account to his ſaid Superiors with all ſpeed, he therefore deſireth to be admitted to morrow to take his leave of this Honorable Councel, to go over as ſoon as can be in the ſhip of War whereof <hi>John Verhaef</hi> is Captain, who was commanded to bring him hither and back again; and that he may have a Letter or a Paſs of the Honorable Counſel, to be tranſported over without any hinderance or trouble, and without being moleſted or arreſted by the Parliaments Ships.</p>
+               <p>The other Extraordinary Ambaſſadors having in the mean time informed and ſhewed him that they had received the like Order and Command, have intreated him to demand in their name, That they may alſo at the ſame time to morrow have Audience to take their leave of this Honorable Councel; as alſo be provided of ſuch Ships as they ſhall have need of for the Tranſ<g ref="char:EOLhyphen"/>port of their Perſons, Train and Baggage; as alſo with ſuch Paſſes as ſhall be neceſſary for the ſecurity of their Paſſage.</p>
+               <p>The ſaid Ambaſſador deſireth, That he may re<g ref="char:EOLhyphen"/>ceive a ſpeedy Anſwer upon theſe, being a thing of very great Importance.</p>
+            </div>
+            <div type="document">
+               <pb n="63" facs="tcp:118370:32"/>
+               <opener>
+                  <dateline>
+                     <date>27<hi rend="sup">th</hi> June, 1652.</date>
+At the Councel of State at <hi>White Hall.</hi>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>UPon Conſideration of the Report made of the Paper delivered in to the Commiſsioners this evening by the Lord</hi> Pauw, <hi>Extraordinary Ambaſſador from the</hi> United Provinces, <hi>The Councel hold themſelves ob<g ref="char:EOLhyphen"/>liged to repreſent the ſame to the Parliament, which they ſhall do upon</hi> Tueſday <hi>morning at their firſt ſit<g ref="char:EOLhyphen"/>ing, and in the mean time can give no other Anſwer to the ſaid Lord ambaſſador upon this ſubject.</hi>
+               </p>
+               <closer>
+                  <signed>Ex: <hi>Jo: Thurloe</hi> Clerk of the Councel.</signed>
+               </closer>
+            </div>
+            <div type="paper">
+               <head>A Paper of the Lord <hi>Pauw</hi> of the 28<hi rend="sup">th</hi> 
+                  <hi>Iune,</hi> 1652.</head>
+               <opener>
+                  <salute>To the Right Honorable Councel of State.</salute>
+               </opener>
+               <p>THe Extraordinary Ambaſſador of the United Pro<g ref="char:EOLhyphen"/>vinces having ſeen the Anſwer of the Honorable Councel given upon his Propoſition made yeſterday, hath thought fit to Declare again, That his Intention is to do his beſt when he ſhall be arrived in his Coun<g ref="char:EOLhyphen"/>trey, That upon the Overtures made to him, or can be yet made, there may be ſuch convenient means and fit expedients found, chiefly to make all miſapprehenſions
+<pb n="64" facs="tcp:118370:33"/>
+and alienations of mindes, as well as all Acts of Ho<g ref="char:EOLhyphen"/>ſtility ceaſe; That a fair Agreement upon the Buſi<g ref="char:EOLhyphen"/>neſs paſſed, and conſequently a firm Union and Confe<g ref="char:EOLhyphen"/>deracy between both States, as alſo a good ſettlement between both Nations may enſue, from which their own Proſperity and Happineſs may flow, and all Incon<g ref="char:EOLhyphen"/>veniences be prevented for the future.</p>
+               <p>And as his Reſolution is godly, Honeſt; and if it ſucceedeth, moſt conducing to the common ſafety; as alſo, that it muſt be ſpeedily, and before things pro<g ref="char:EOLhyphen"/>ceed further, put in execution.</p>
+               <p>The ſaid Ambaſſador deſireth, That it may pleaſe to the Honorable Councel to weigh all theſe, and to Order, That all may be done that may be for that purpoſe, towards the promoting of the ſame.</p>
+               <p>And as the time is moſt precious, it will be very neceſſary, That he may ſpeedily be admitted to his Audiences; as alſo, he may ſoon have the fit Expediti<g ref="char:EOLhyphen"/>ons concerning the Ship that brought him, and ſtayeth for his return at <hi>Graveſend,</hi> to bring him back again into the <hi>Low-Countreys,</hi> with the Paſs he hath demand<g ref="char:EOLhyphen"/>ed for his ſecurity, and to avoid all misfortunes that might meet him at Sea.</p>
+               <p>The ſaid Ambaſſador doth wholly perſwade him<g ref="char:EOLhyphen"/>ſelf, that the Honorable Councel will be pleaſed to give Order, That in conſideration of his Quality, he be uſed in the ſame maner at his departure and taking of his leave, as he hath been at his coming and recepti<g ref="char:EOLhyphen"/>on, for which favor he thanketh the Honorable Coun<g ref="char:EOLhyphen"/>cel moſt kindly.</p>
+            </div>
+            <div type="paper">
+               <pb n="65" facs="tcp:118370:33"/>
+               <head>Another Paper of the ſame Date.</head>
+               <opener>
+                  <salute>To the Right Honorable Councel of State.</salute>
+               </opener>
+               <p>THe Extrordinary Ambaſſador hath thought fit to propound here, whether this Honorable Councel could not approve, That after his Report made to the Lords the States General his Secretary, or ſome other faithful perſon, ſhould be ſent to maintain and foment the mutual Correſpondence, and deliver as well as re<g ref="char:EOLhyphen"/>ceive from both States, what may ſerve to the com<g ref="char:EOLhyphen"/>pounding of things paſſed, and to the re-eſtabliſhing of the Union and Confederacy.</p>
+               <p>And whether to this end the Honorable Councel would be pleaſed to command ſuch Paſſes to be grant<g ref="char:EOLhyphen"/>ed, by vertue of which, he might freely and ſafely come back and ſtay here, as long as the Parliament of the Commonwealth of <hi>England,</hi> or the Lords States General may finde it convenient.</p>
+               <p>Or otherwiſe, That it may pleaſe to the Honorable Councel to name or denote here, ſome body that be agreeable to them, and fit to receive the Letters that might be written upon that ſubject, and to ſolicite the Anſwers thereunto.</p>
+            </div>
+            <div type="paper">
+               <pb n="66" facs="tcp:118370:34"/>
+               <head>A Paper of the three Ambaſſadors, dated 28 <hi>Iune,</hi> 1652.</head>
+               <opener>
+                  <salute>To the Councel of State of the Commonwealth of <hi rend="smallCaps">England.</hi>
+                  </salute>
+               </opener>
+               <p>WHereas we the Ambaſſadors of the Lords States of the United Provinces of the Low Countries, by their laſt Letters have received Order, without any delay, to make haſte again to our Countrey, and there to give an accompt of what we have here done; We therefore do earneſtly pray this Senate to ſuffer us, that we take, as it befits us, leave of this moſt Illuſtrious Aſſembly, and may have ſhips that may conveniently ſerve for our own Tranſportation, and for that of our Train and Goods; and beſides, That ſuch ſafe Con<g ref="char:EOLhyphen"/>ducts or Paſſes be granted us that may make our Jour<g ref="char:EOLhyphen"/>ney ſafe. Here are ſome of our ſhips ready, <hi>viz.</hi> Captain <hi>Jaep den Boer,</hi> with three ſmaller Veſſels of the City of <hi>Dort.</hi>
+               </p>
+               <closer>
+                  <signed>Signed, I: <hi>Cats. G: Schaep. Vandeperre.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="speech">
+               <pb n="67" facs="tcp:118370:34"/>
+               <head>
+                  <hi>The Lord</hi> Pauw's <hi>Speech in Parliament, at his taking leave,</hi> 30. June, 1652.</head>
+               <opener>
+                  <salute>Right Honorable,</salute>
+               </opener>
+               <p>THe States General of the United Provinces of the Low-Countries, have firſt ſent their Extraordi<g ref="char:EOLhyphen"/>nary Ambaſſadors to the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> to do their earneſt endeavors for the ſtrengthning and confirming of the ancient Amity and Friendſhip between both Nations, and for the Eſtabliſhing of an everlaſting Alliance between both States, and to bring thoſe things to a happy concluſion for the common Utility and Security; and afterwards the Lord <hi>William Newport,</hi> a Member of the States of <hi>Holland</hi> and <hi>Weſt Friezland,</hi> to take away ſome Doubts, and to witneſs more fully of the good Inten<g ref="char:EOLhyphen"/>tions of our Superiors concerning the Treaty of Con<g ref="char:EOLhyphen"/>federacy.</p>
+               <p>At laſt it hath pleaſed the ſaid Lords States to pre<g ref="char:EOLhyphen"/>pare, ſome few days ago, a new Extraordinary Em<g ref="char:EOLhyphen"/>baſſage to the ſaid Parliament, and to give me that Imployment, with an expreſs Command to bear again over and above, witneſs of their faithful dealing, and of their moſt ſincere intention towards this Common<g ref="char:EOLhyphen"/>wealth; and to diſſolve and remove all the ſtrange and unthought of accidents, and all the ſtoppings and hin<g ref="char:EOLhyphen"/>derances thereby cauſed and oppoſed to their good in<g ref="char:EOLhyphen"/>tent; by which means, I might by all my endeavors promote to a happy Concluſion, the Treaty of Alliance already begun.</p>
+               <p>To what end it hath been propounded amongſt other
+<pb n="68" facs="tcp:118370:35"/>
+things, That there ſhould be an Enquiry and Exami<g ref="char:EOLhyphen"/>nation made by fit perſons of both Commonwealths, of all what lately paſſed as was done between the two Fleets without any Deſign, but by meer chance, and a juſt and lawful Satisfaction ſtated: For we do witneſs and proteſt before God and all the Chriſtian world, as well as in the preſence of the Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England,</hi> That the States have not had the leaſt minde of Offending or Troubling this Com<g ref="char:EOLhyphen"/>monwealth, much leſs of committing any Hoſtility againſt them; but rather that they have had nothing more in their hearts then to Entertain and Maintain with this State all true Friendſhip and firm Peace; even to come to a ſtricter Union and Confederacy with them.</p>
+               <p>But as it hath unhappily happened, That after ex<g ref="char:EOLhyphen"/>traordinary Pains taken, and all the beſt Endeavors done of all ſides to conſerve the common Quiet, and remove all hindrances, both Embaſſages have not one<g ref="char:EOLhyphen"/>ly miſſed their Ends, but that to the contrary, not onely great Troubles have been given, extraordinary Loſſes have been cauſed, but huge Dangers; as alſo Acts of Hoſtility not looked for, neither at any time before de<g ref="char:EOLhyphen"/>clared, are threatned from the Engliſh Fleet to the States of the <hi>United Provinces.</hi>
+               </p>
+               <p>Both Embaſſage hath thought fit to prevent the en<g ref="char:EOLhyphen"/>ſuing Evils, and upon a Buſineſs ſo unuſual, to return into their own Countrey to give an Accompt of their Negotiation to their Superiors, and to be acquainted with their further Commands.</p>
+               <p>To that end we do preſent our ſelves together to the Supream Authority of this Commonwealth, declare,
+<pb n="69" facs="tcp:118370:35"/>
+That we have a Command to return back, and that we are ready to rake our Journey.</p>
+               <p>We have given notice to the Honorable Councel of State of this Commonwealth, of thoſe things that are neceſſary to us for our Tranſport, according to our Quality and the ſeaſon, and do look and wait for an Anſwerthereupon, hoping that the neceſſary Expeciti<g ref="char:EOLhyphen"/>ons ſhall be done.</p>
+               <p>In the mean time we cannot be wanting to our Du<g ref="char:EOLhyphen"/>ty; but are forced again to deſire moſt earneſtly; That all our ſhips that have been brought into the Ports of <hi>England,</hi> &amp; there detained of late againſt our thoughts, and before any Declaration of Hoſtility iſſued our, and whereof the Commanders are unawares and guiltleſs, having not given the leaſt, nor to no body occaſion of Diſpute; may be relcaſed and ſuffered to go freely, with their officers, mariners, merchandizes, packs and loads, and the whole company, and to perform their Journcy without any Wrong or Injury; which we do pretend to be due to our old Friendſhip, to the Right of Nati<g ref="char:EOLhyphen"/>ons, and have been obſerved between Chriſtian Peo<g ref="char:EOLhyphen"/>ples, as well as we hope to have it granted by the Ju<g ref="char:EOLhyphen"/>ſtice and Equity of this Great and moſt Honorable Aſſembly.</p>
+               <p>Furthermore, We do intreat with all our hearts the great God of Heavens, who is the Author and Pro<g ref="char:EOLhyphen"/>moter of Peace and Concordance, That he will be plea<g ref="char:EOLhyphen"/>ſed to afford ſuch thought and counſel to the Parlia<g ref="char:EOLhyphen"/>ment of the Commonwealth of <hi>England,</hi> as may tend to the mutual Peace of both States, to the conſervation of the Chriſtian Reformed and Orthodox Religion, which hath no better Foundations then upon Peace,
+<pb n="70" facs="tcp:118370:36"/>
+and can never better thrive and flouriſh then by Peace, and will without any doubt be afflicted and deſtroyed by our Troubles and falling out; As alſo that be will in his Mercy prevent the Deſtructions and Miſeries of Wars, and beſtow abundantly his Heavenly Bleſſings upon both Commonwealths; We ſhall end upon theſe Wiſhes. And being commanded to Repair in haſte into our countrey, we ſhall with all thankful Acknowledge<g ref="char:EOLhyphen"/>ment for all Favors done to us, as well as with all due Reſpects, take our leave of this moſt Honorable and Supream Aſſembly of the Commonwealth of <hi>England,</hi> with confidence that they will not deny us thoſe things which we have already expreſſed, and are granted eve<g ref="char:EOLhyphen"/>ry where to the Ambaſſadors for their quality and ſe<g ref="char:EOLhyphen"/>curity.</p>
+               <p>
+                  <hi>Pronounced and delivered to the Parliament of the Commonwealth of</hi> England, <hi>the 30. June / 20. July 1652 by the Extraordinary Ambaſſadors of the States General of the</hi> United Provinces.</p>
+               <p>We do beſides deliver a Petition put into our hands by the Dutch Merchants, Deſiring they may enjoy the ſame Security and Protection which hath been lately granted in the beſt Form to the Engliſh Merchants in our Provinces.</p>
+               <p>We deſire alſo at laſt, That beſides the two Dutch Men of War, there ſhould be another of thoſe that are in the <hi>Downs</hi> granted to us for our Paſſage, ſeeing we are a very great Company, wherein are ſome Wo<g ref="char:EOLhyphen"/>men of Quality, with much Carriage, which will put us to great Inconveniences, beſides the heat of this ſea<g ref="char:EOLhyphen"/>ſon, except we be fitted with the ſaid ſhin.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118370:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
